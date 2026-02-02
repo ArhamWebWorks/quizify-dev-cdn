@@ -1,1 +1,12 @@
-function a0_0x22de(){var _0x140596=['async','542728ACEsij','10appglp','111474HQYlFF','95430ViIqTM','https://cdn.jsdelivr.net/gh/ArhamWebWorks/quizify-dev-cdn@latest/shortcode.js','6FzapeN','App\x20Embed\x20already\x20loaded,\x20skipping\x20ScriptTag','src','180crwtzc','370517YQZxIh','3609HEciLY','head','3016yckVQW','3QsDLAF','log','script','1534164lrtPwe','136000IzSzWk','Loading\x20main\x20app\x20via\x20ScriptTag\x20fallback...','13BwKsRN'];a0_0x22de=function(){return _0x140596;};return a0_0x22de();}function a0_0x10b3(_0x218d65,_0x230f12){var _0x22debc=a0_0x22de();return a0_0x10b3=function(_0x10b38d,_0x29049f){_0x10b38d=_0x10b38d-0x1a2;var _0x65d3a4=_0x22debc[_0x10b38d];return _0x65d3a4;},a0_0x10b3(_0x218d65,_0x230f12);}(function(_0x288cae,_0x3e4f8d){var _0x5e75d9=a0_0x10b3,_0x22428b=_0x288cae();while(!![]){try{var _0x167561=parseInt(_0x5e75d9(0x1a2))/0x1*(-parseInt(_0x5e75d9(0x1a6))/0x2)+-parseInt(_0x5e75d9(0x1ad))/0x3+parseInt(_0x5e75d9(0x1aa))/0x4*(parseInt(_0x5e75d9(0x1ab))/0x5)+-parseInt(_0x5e75d9(0x1af))/0x6*(parseInt(_0x5e75d9(0x1b3))/0x7)+parseInt(_0x5e75d9(0x1b6))/0x8*(-parseInt(_0x5e75d9(0x1b4))/0x9)+parseInt(_0x5e75d9(0x1b2))/0xa*(parseInt(_0x5e75d9(0x1ac))/0xb)+parseInt(_0x5e75d9(0x1a5))/0xc*(parseInt(_0x5e75d9(0x1a8))/0xd);if(_0x167561===_0x3e4f8d)break;else _0x22428b['push'](_0x22428b['shift']());}catch(_0x27231a){_0x22428b['push'](_0x22428b['shift']());}}}(a0_0x22de,0x22989),(function(){var _0x3d4a0b=a0_0x10b3;if(window['quizify_script_loaded']){console[_0x3d4a0b(0x1a3)](_0x3d4a0b(0x1b0));return;}console['log'](_0x3d4a0b(0x1a7));var _0x34eadc=document['createElement'](_0x3d4a0b(0x1a4));_0x34eadc[_0x3d4a0b(0x1b1)]=_0x3d4a0b(0x1ae),_0x34eadc[_0x3d4a0b(0x1a9)]=!![],document[_0x3d4a0b(0x1b5)]['appendChild'](_0x34eadc);}()));
+(function () {
+    if (window.quizify_script_loaded) {
+        console.log("App Embed already loaded, skipping ScriptTag");
+        return;
+    }
+
+    console.log("Loading main app via ScriptTag fallback...");
+    var s = document.createElement("script");
+    s.src = "https://quizify-dev.arhamcommerce.com/js/shortcode.js";
+    s.async = true;
+    document.head.appendChild(s);
+})();

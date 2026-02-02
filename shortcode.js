@@ -1,1 +1,1448 @@
-var a0_0x327a42=a0_0x562d;function a0_0x54dd(){var _0x5d257d=['1250627tABbgt','is-empty','Quizify\x20‑\x20Product\x20Quiz\x20Builder','head','error','payload','remove','?quizify-pop-quiz','data-source','display:\x20block;\x20top:0px;\x20left:0px;\x20bottom:0px;min-height:500px;right:0px;\x20width:100%;border:none;\x20margin:0;\x20padding:0;\x20overflow:hidden;\x20z-index:999999;','Quizify:\x20Failed\x20to\x20parse\x20quizify\x20cookie\x20data','json','?_=','?section_id=cart-drawer&_=','true','statusText','visually-hidden','onmessage','map','height:\x2025px;','https://','has','display:\x20block;position:relative','custom_input','hasAttribute','filter','top:\x2020px;','Add\x20to\x20cart\x20failed','startsWith','POST','#cart-icon-bubble','quizify_analytics_track_','getItem','responseText','quizifyPopupClosed','--max-width','getAttribute','undefined','length','.quizify-close-btn:hover\x20{','372jnaDGt','display:\x20block\x20!important;','shift','maxWidth','textContent','origin','content:\x20\x22\x22;','item_count','/quiz','overflow:\x20hidden;','border-radius:\x2020px;','data-store-id','quiz_ids','40312mzcQgs','open','input[name=\x22properties[_Quizify\x20Title]\x22]','7734789IcarvR','type','quizifyAttached','items','button[aria-label*=\x22Cart\x22]','data-shop-domain','_self','quantity','.quizify_backdrop{','pathname','locale','contentWindow','opacity:\x201;','shopify-section-header','boxSizing','custom_input_label','find','click','body','quantity=','false','setProperty','quizify','all_variant','animation:\x20progress\x2010s\x20linear\x20infinite;','#quizify-pop','getElementsByClassName','onload','background-color:\x20#333;','99.9%','title','quiz_id','toUTCString','dispatchEvent','src','.quizify-close-btn\x20{','querySelector','status','input[name=\x22product-id\x22]','smooth','substr','ids','/cart/','<iframe\x20id=\x27quizify_result_frame\x27\x20title=\x27Quizify\x20‑\x20Product\x20Quiz\x20Builder\x27\x20data-domain=\x27','.cart-drawer','plain_quiz_title','iframe','quizify_add_body_overflow','left:\x2050%;','quizify_result_frame','[data-cart-drawer]','replace',';\x20path=/','quiz_title','/cart/add.js','height:\x205px;','dataset','.quizify','push','observe','No_frame','.visually-hidden','.cart-bubble,\x20.cart-count-bubble','html','custom_label','action','left:\x2015px;','text/css','close','active','text','classList','quizify_global_track','GET','style','<iframe\x20id=\x27quizify_result_frame\x27\x20title=\x27Quizify\x20‑\x20Product\x20Quiz\x20Builder\x27\x20class=\x27quizify_result_frame\x27\x20data-domain=\x27','.cart-count-bubble','selectedSellingPlanValue','readyState','none','AddQty','send','Content-Type','link','/cart','#quizify-pop-','_blank','plain_quiz_id','querySelectorAll','#cart-drawer','includes','\x20quizify_','overflow-hidden','&id=','RemoveQty','&properties[','\x20content:\x20\x22\x20\x22;','innerHTML','minHeight','12HHIwyg','forwardToStore','custom_input_value','.quizify-pop-container','variant_id','.shopify-app-block[data-block-handle=\x22quizify_preview\x22]','quiz_shortcode','quizify-pop','cart-items-component','height','domain','script','getElementById','ScrollToTop','https://quizify-dev.arhamcommerce.com','button[aria-controls*=\x22cart\x22]','aria-hidden','data-frameid','addEventListener','span','quizifyIframe_','100%\x20{','100%','now','z-index:\x202147483646;','&properties[_Quizify\x20Title]=','.cart-drawer__dialog','\x20style=\x27display:\x20block;\x20top:0px;\x20left:0px;\x20bottom:0px;height:700px;min-height:700px;right:0px;\x20width:100%;border:none;\x20margin:0;\x20padding:0;\x20overflow:hidden;\x20z-index:999999;\x27\x20></iframe>','&selling_plan=','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20aria-hidden=\x22true\x22>','width:\x20100%;','parse','1630596dYMjST','quizify_loading','parseFromString','quizify-popup','497816LkyHco','handle','</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22visually-hidden\x22>','data-domain','opacity:\x200.3;','header','[Quizify]\x20Found\x20Shopify\x20App\x20Block\x20wrapper:','position:\x20absolute;','transform:\x20translate(-50%,\x20-50%);','&properties[_Source]=Quizify','quizify_open_product','display:\x20block;margin:0;border:0;padding:0;outline:\x200;box-sizing:\x20border-box;position:\x20fixed;top:\x200px;left:\x200px;width:\x20100%;height:\x20100%;background-color:\x20rgba(0,\x200,\x200,\x200.5);z-index:\x209999999;','closest','outerHTML','popstate','background:\x20#000;','attachEvent','add','quizify_script_loaded','.shopify-section','\x20transform:\x20rotate(45deg);','quizify-pop-container','log','\x20item','cursor:pointer;','catch','yes','multiple','auto','className','https://cdn.jsdelivr.net/gh/ArhamWebWorks/quizify-dev-cdn@latest/shortcode.css','response','pop','&properties[_Quizify\x20ID]=','scrollTo','.quizify-close-btn:before,\x20.quizify-close-btn:after\x20{','/#quizify-pop','.quizify-close-btn:before\x20{','appendChild','single','QuizifyPopContainer','autoscroll','host','append','view','url','trim','createTextNode','</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','https://cdn.jsdelivr.net/gh/ArhamWebWorks/quizify-dev-cdn/shortcode_popup_quiz.js','createElement','opacity:\x201;position:\x20relative;width:\x20100%;height:\x2080%;max-width:\x201280px;margin:\x200px\x20auto;border-radius:\x208px;padding:\x200px;z-index:\x2022;top:\x2050%;transform:\x20translateY(-50%);box-shadow:\x20rgba(0,\x200,\x200,\x200.1)\x200px\x202px\x2010px;display:\x20flex;flex-flow:\x20column;overflow:\x20hidden;','get','details[open]','quizify_pop','StorefrontMessage::ReplaceSection','is-open','body\x20{','data','quizifybadge','onclick','height:\x20100%;','forward_to','button[aria-describedby*=\x22cart\x22]','null','quiz_shortcode_id','447213UcJjWZ','\x20top:\x200;','quizify_backdrop','width:\x200;','split','width','width:\x2025px;','{{\x20customer.email\x20}}','Quizify_result_widget','hidden',';\x20expires=','\x27\x20src=','&size=','div','input','postMessage','top','Analytics\x20tracking\x20failed.\x20Status:\x20','/track_analytics','.quizify_loading\x20{','background-color:\x20#ffffff;','quizify-fullscreen-sec\x20','setAttribute','rel','properties[_Quizify\x20Title]','setRequestHeader','\x20width:\x202px;','display','quizifyAddToCart','7532GuaENh','/cart.js','background:\x20#ddd;','message','onreadystatechange','10fcqDRr','startover','z-index:\x202147483647;','location','search','iframeid','[Quizify]\x20Found\x20rte-formatter\x20wrapper:','value','hash','overflow:hidden','name','popup_iframe_id','width:\x20150px;','forEach','form[action$=\x22/cart/add\x22]','then','cart-drawer','165IOTkDl','cookie','application/json;charset=UTF-8','button[aria-label*=\x22Carrito\x22]','Cart\x20button\x20not\x20found,\x20trying\x20direct\x20methods...','quizify-close-btn','iframe#iframeid','details','block','position:\x20fixed;','disconnect','stringify','Failed\x20to\x20parse\x20existing\x20cookie\x20JSON','href','quizifyresults'];a0_0x54dd=function(){return _0x5d257d;};return a0_0x54dd();}(function(_0x6a5d59,_0x87361b){var _0xad5490=a0_0x562d,_0xe6cd5d=_0x6a5d59();while(!![]){try{var _0x1565b0=parseInt(_0xad5490(0x269))/0x1*(parseInt(_0xad5490(0x21c))/0x2)+parseInt(_0xad5490(0x1ff))/0x3+parseInt(_0xad5490(0x276))/0x4*(parseInt(_0xad5490(0x232))/0x5)+-parseInt(_0xad5490(0x199))/0x6*(parseInt(_0xad5490(0x241))/0x7)+parseInt(_0xad5490(0x1bd))/0x8+-parseInt(_0xad5490(0x279))/0x9*(parseInt(_0xad5490(0x221))/0xa)+parseInt(_0xad5490(0x1b9))/0xb;if(_0x1565b0===_0x87361b)break;else _0xe6cd5d['push'](_0xe6cd5d['shift']());}catch(_0x520663){_0xe6cd5d['push'](_0xe6cd5d['shift']());}}}(a0_0x54dd,0xd5f1d),window[a0_0x327a42(0x1cf)]=!![]);var origin_URL=a0_0x327a42(0x1a7),Api=origin_URL+a0_0x327a42(0x271),Api_response=origin_URL+'/QuizifyResults',check_pop_quiz,PopupUrl;check_pop_quiz=location[a0_0x327a42(0x229)],PopupUrl=check_pop_quiz[a0_0x327a42(0x15e)](0x0,0xc);function a0_0x562d(_0x3424,_0x2f9c37){var _0x54ddcb=a0_0x54dd();return a0_0x562d=function(_0x562dba,_0x3a31e8){_0x562dba=_0x562dba-0x13d;var _0x4e1595=_0x54ddcb[_0x562dba];return _0x4e1595;},a0_0x562d(_0x3424,_0x2f9c37);}var shortcode_id;window[a0_0x327a42(0x1ab)](a0_0x327a42(0x1cb),function(_0x4afb2d){var _0x3a615f=a0_0x327a42;check_pop_quiz=location['hash'],PopupUrl=check_pop_quiz[_0x3a615f(0x15e)](0x0,0xc),Popquiz();});function GetQuizifyCartDetail(_0x540f29){var _0x328def=a0_0x327a42;GETdata(_0x328def(0x21d),function(_0x280a42){var _0x41077e=_0x328def,_0x58eef0=[];_0x280a42[_0x41077e(0x27c)]!=''&&_0x280a42['items'][_0x41077e(0x22e)](function(_0x4107ec){var _0x55794c=_0x41077e;_0x58eef0[_0x55794c(0x170)](_0x4107ec[_0x55794c(0x19d)]);});if(_0x58eef0!=''){var _0x483e8a={'update_quiz_cart':_0x58eef0};_0x540f29[0x0]['contentWindow'][_0x41077e(0x20e)](_0x483e8a,'*');}else{var _0x483e8a={'update_quiz_cart':_0x58eef0};_0x540f29[0x0][_0x41077e(0x141)][_0x41077e(0x20e)](_0x483e8a,'*');}});}function checkStartoverQuerystring(_0x2193ef){var _0x259cc9=a0_0x327a42;const _0x146e8f=new URLSearchParams(window[_0x259cc9(0x224)][_0x259cc9(0x225)]);if(_0x146e8f[_0x259cc9(0x256)](_0x259cc9(0x222))==!![])for(const [_0x39efbf,_0x355d4f]of _0x146e8f){if(_0x355d4f==_0x259cc9(0x1d7)){var _0x4233c6={'Quizify_dstrslt':!![]};_0x2193ef[0x0][_0x259cc9(0x141)][_0x259cc9(0x20e)](_0x4233c6,'*');}}}function FindmyQuizifyIframe(){var _0x133b4f=a0_0x327a42,_0x15b534=document[_0x133b4f(0x150)](_0x133b4f(0x14c)),_0x459a37=document['getElementById'](_0x133b4f(0x14c));_0x459a37&&((_0x459a37!=null||_0x459a37!=undefined)&&QuizifyEmbed_find_by_ID_CLASS(_0x459a37));if(_0x15b534[_0x133b4f(0x267)]!=0x0)for(var _0x51241a=0x0;_0x51241a<_0x15b534['length'];_0x51241a++){(_0x15b534[_0x51241a]!=null||_0x15b534[_0x51241a]!=undefined)&&QuizifyEmbed_find_by_ID_CLASS(_0x15b534[_0x51241a]);}}function QuizifyEmbed_find_by_ID_CLASS(_0x11cfe9){var _0x341f3a=a0_0x327a42,_0x5a9597=_0x11cfe9['getAttribute'](_0x341f3a(0x274)),_0x2c1f9c=_0x11cfe9[_0x341f3a(0x150)](_0x341f3a(0x1ad)+_0x5a9597);_0x2c1f9c[_0x341f3a(0x267)]!=0x0?(_0x2c1f9c[0x0][_0x341f3a(0x1ab)](_0x341f3a(0x151),checkStartoverQuerystring(_0x2c1f9c)),_0x2c1f9c[0x0]['addEventListener'](_0x341f3a(0x151),GetQuizifyCartDetail(_0x2c1f9c)),StopQuizifyIframeFinder()):StopQuizifyIframeFinder();}function StopQuizifyIframeFinder(){clearInterval(findquizframe);}var findquizframe=setInterval(FindmyQuizifyIframe,0x12c),shortcode_styelsheet=document[a0_0x327a42(0x1ef)](a0_0x327a42(0x189));shortcode_styelsheet['setAttribute'](a0_0x327a42(0x216),'stylesheet'),shortcode_styelsheet[a0_0x327a42(0x215)](a0_0x327a42(0x23f),a0_0x327a42(0x1db)),document['head']['appendChild'](shortcode_styelsheet);var script_tag=document[a0_0x327a42(0x1ef)](a0_0x327a42(0x1a4));script_tag[a0_0x327a42(0x215)](a0_0x327a42(0x158),a0_0x327a42(0x1ee)),document[a0_0x327a42(0x244)][a0_0x327a42(0x1e3)](script_tag),Popquiz(),(function(){var _0x3dfcdc=a0_0x327a42;const _0x45b765=window[_0x3dfcdc(0x224)]['pathname']['split']('/'),_0x544def=_0x45b765[_0x45b765['length']-0x1],_0x45d62d=document['cookie'][_0x3dfcdc(0x203)](';');_0x45d62d['forEach'](_0x4b0d03=>{var _0x92acb0=_0x3dfcdc;const [_0x344867,_0x3c8653]=_0x4b0d03[_0x92acb0(0x1eb)]()['split']('=');if(_0x344867[_0x92acb0(0x25d)](_0x92acb0(0x260)))try{const _0x58afef=JSON[_0x92acb0(0x1b8)](decodeURIComponent(_0x3c8653)),_0x3d5711=_0x58afef[_0x92acb0(0x155)],_0x1678c0=_0x58afef[_0x92acb0(0x16b)]||'',_0x5356a0=_0x58afef['quiz_shortcode']||'',_0x440b65=_0x58afef['products']||[];function _0x27bcff(_0x909b3a){var _0x32c4ea=_0x92acb0;if(!_0x909b3a[_0x32c4ea(0x15a)](_0x32c4ea(0x278))){const _0x365713=document['createElement'](_0x32c4ea(0x20d));_0x365713[_0x32c4ea(0x27a)]=_0x32c4ea(0x208),_0x365713['name']=_0x32c4ea(0x217),_0x365713[_0x32c4ea(0x228)]=_0x1678c0;const _0x43637e=document[_0x32c4ea(0x1ef)](_0x32c4ea(0x20d));_0x43637e[_0x32c4ea(0x27a)]='hidden',_0x43637e[_0x32c4ea(0x22b)]='properties[_Source]',_0x43637e['value']='Quizify';const _0x28d17b=document[_0x32c4ea(0x1ef)](_0x32c4ea(0x20d));_0x28d17b[_0x32c4ea(0x27a)]=_0x32c4ea(0x208),_0x28d17b['name']='properties[_Quizify\x20ID]',_0x28d17b[_0x32c4ea(0x228)]=_0x3d5711,_0x909b3a['appendChild'](_0x365713),_0x909b3a[_0x32c4ea(0x1e3)](_0x43637e),_0x909b3a[_0x32c4ea(0x1e3)](_0x28d17b);}}function _0x106044(_0x4006e6){var _0x345928=_0x92acb0;const _0x54d584=_0x4006e6[_0x345928(0x18e)]('button[type=\x22submit\x22]');_0x54d584[_0x345928(0x22e)](_0x3dab9e=>{var _0x23b705=_0x345928;!_0x3dab9e[_0x23b705(0x16e)][_0x23b705(0x27b)]&&(_0x3dab9e[_0x23b705(0x16e)][_0x23b705(0x27b)]=_0x23b705(0x24f),_0x3dab9e[_0x23b705(0x1ab)]('click',function(){var _0x1d7551=_0x23b705,_0x28c1e9={'analytic_type':'add_to_cart','shortcode_id':_0x5356a0,'add_to_cart':0x1,'quiz_domain':null},_0x4848da=new URLSearchParams(_0x28c1e9)['toString']();fetch(origin_URL+_0x1d7551(0x211),{'method':_0x1d7551(0x25e),'headers':{'Content-Type':'application/x-www-form-urlencoded'},'body':_0x4848da})[_0x1d7551(0x230)](_0x69a4bc=>{var _0x59880e=_0x1d7551;if(!_0x69a4bc['ok'])throw new Error(_0x59880e(0x210)+_0x69a4bc[_0x59880e(0x15b)]);return _0x69a4bc[_0x59880e(0x17c)]();})[_0x1d7551(0x230)](()=>{})[_0x1d7551(0x1d6)](_0x571568=>{});}));});}function _0x2db492(){var _0x29f927=_0x92acb0;_0x440b65[_0x29f927(0x22e)](_0x4fea12=>{var _0x3a97a2=_0x29f927;if(_0x4fea12[_0x3a97a2(0x1be)]===_0x544def){const _0x2e18e3=document['querySelectorAll'](_0x3a97a2(0x22f));_0x2e18e3[_0x3a97a2(0x22e)](_0x16aff9=>{_0x27bcff(_0x16aff9),_0x106044(_0x16aff9);});}});}function _0x50d4e1(){var _0x503009=_0x92acb0;const _0x229a7a=document[_0x503009(0x18e)](_0x503009(0x22f));_0x229a7a[_0x503009(0x22e)](_0x5ef6fc=>{var _0x4211b7=_0x503009;const _0xefdd63=_0x5ef6fc['querySelector'](_0x4211b7(0x15c));if(_0xefdd63){const _0x1d455d=_0xefdd63[_0x4211b7(0x228)];_0x440b65[_0x4211b7(0x22e)](_0x44345c=>{var _0x2367fc=_0x4211b7;const _0xd01c34=_0x44345c['id']['split']('/'),_0x99d22a=_0xd01c34[_0xd01c34[_0x2367fc(0x267)]-0x1];_0x99d22a===_0x1d455d&&(_0x27bcff(_0x5ef6fc),_0x106044(_0x5ef6fc));});}});}_0x2db492(),_0x50d4e1(),document['addEventListener'](_0x92acb0(0x147),function(){var _0xc21b97=_0x92acb0;_0x50d4e1();const _0x1f1f02=new MutationObserver(()=>{_0x50d4e1();});_0x1f1f02[_0xc21b97(0x171)](document[_0xc21b97(0x148)],{'childList':!![],'subtree':!![]}),setTimeout(()=>_0x1f1f02[_0xc21b97(0x23c)](),0xbb8);});}catch(_0xaad210){console[_0x92acb0(0x245)](_0x92acb0(0x24b),_0xaad210);}});}()),window[a0_0x327a42(0x1ab)]('message',function(_0xf19649){var _0x275c86=a0_0x327a42;if(!_0xf19649['data'])return;if(_0xf19649[_0x275c86(0x1f7)][_0x275c86(0x27a)]===_0x275c86(0x1c7)){const _0x47b09f=_0xf19649[_0x275c86(0x1f7)][_0x275c86(0x1ea)];if(_0x47b09f)window[_0x275c86(0x277)](_0x47b09f,'_blank');else{}}}),window[a0_0x327a42(0x1ab)]('message',function(_0x1c351b){var _0x2e0077=a0_0x327a42;_0x1c351b[_0x2e0077(0x1f7)][_0x2e0077(0x1e9)]=='customer_result'&&HitToCheckout(_0x1c351b[_0x2e0077(0x1f7)]);if(_0x1c351b[_0x2e0077(0x1f7)][_0x2e0077(0x19d)]&&_0x1c351b['data'][_0x2e0077(0x177)]==_0x2e0077(0x186)){var _0x12e38c=_0x1c351b[_0x2e0077(0x1f7)]['variant_id'],_0x5a884f=0x1;let _0xd5eae7=!![];var _0x28a106=0x1,_0x427a84=_0x1c351b[_0x2e0077(0x1f7)][_0x2e0077(0x18d)],_0x2a5c97=_0x1c351b[_0x2e0077(0x1f7)][_0x2e0077(0x163)],_0x1123c7=_0x1c351b['data'][_0x2e0077(0x183)],_0x50af00=_0x1c351b[_0x2e0077(0x1f7)]['custom_input'],_0x2ecb77=_0x1c351b[_0x2e0077(0x1f7)]['quiz_prv_id'],_0x4f9cef=null;addTocart(_0x2ecb77,_0x12e38c,_0x5a884f,_0x28a106,_0x427a84,_0x2a5c97,_0x50af00,type=_0x2e0077(0x1e4),_0x1123c7,_0xd5eae7);}else{if(_0x1c351b[_0x2e0077(0x1f7)]['variant_id']&&_0x1c351b[_0x2e0077(0x1f7)][_0x2e0077(0x177)]==_0x2e0077(0x194)){var _0x12e38c=_0x1c351b[_0x2e0077(0x1f7)]['variant_id'],_0x5a884f=0x1;removeQTY(_0x12e38c,_0x5a884f);}}if(_0x1c351b[_0x2e0077(0x1f7)][_0x2e0077(0x14d)]){var _0x31c7d4=_0x1c351b[_0x2e0077(0x1f7)]['all_variant'],_0x50af00=_0x1c351b[_0x2e0077(0x1f7)]['custom_input'],_0x1123c7=null,_0x4f9cef=null,_0x2ecb77=_0x1c351b[_0x2e0077(0x1f7)]['quiz_prv_id'];let _0x24d9b8=0x0;async function _0x142ba0(){var _0x4cc062=_0x2e0077;if(_0x24d9b8>=_0x31c7d4[_0x4cc062(0x267)])return;try{await addTocart(_0x2ecb77,_0x31c7d4[_0x24d9b8],_0x31c7d4[_0x4cc062(0x267)],_0x24d9b8+0x1,_0x427a84,_0x2a5c97,_0x50af00,_0x4cc062(0x1d8),_0x1123c7,_0x24d9b8==_0x31c7d4[_0x4cc062(0x267)]-0x1);}catch(_0x479442){}_0x24d9b8++,setTimeout(_0x142ba0,0x3e8);}_0x142ba0();}if(_0x1c351b[_0x2e0077(0x1f7)]=='quizifyResult'){var _0x3e2eff=new CustomEvent('quizifyResult',{'detail':this['response']});window[_0x2e0077(0x157)](_0x3e2eff);var _0x475533=document[_0x2e0077(0x150)](_0x2e0077(0x1d2));if(_0x475533[_0x2e0077(0x267)]==0x1){var _0xb9dea4=document['getElementById'](_0x2e0077(0x226));_0xb9dea4[_0x2e0077(0x180)][_0x2e0077(0x1a2)]=_0x2e0077(0x153),_0xb9dea4[_0x2e0077(0x180)]['overflow']=_0x2e0077(0x1d9),_0xb9dea4[_0x2e0077(0x180)][_0x2e0077(0x198)]=_0x2e0077(0x153),setTimeout(()=>{var _0x3b62f6=_0x2e0077;_0xb9dea4[_0x3b62f6(0x180)][_0x3b62f6(0x1a2)]=_0x3b62f6(0x1af),_0xb9dea4[_0x3b62f6(0x180)][_0x3b62f6(0x198)]=_0x3b62f6(0x1af);},0x1388);}}_0x1c351b[_0x2e0077(0x1f7)]['QuizifyResultCheckout']==_0x2e0077(0x19a)&&(_0x1c351b[_0x2e0077(0x1f7)]['forward_to']?window[_0x2e0077(0x277)]('/'+_0x1c351b[_0x2e0077(0x1f7)][_0x2e0077(0x1fb)],_0x2e0077(0x27f)):window[_0x2e0077(0x277)](_0x2e0077(0x18a),'_self'));_0x1c351b[_0x2e0077(0x1f7)][_0x2e0077(0x27a)]&&(_0x1c351b[_0x2e0077(0x1f7)][_0x2e0077(0x27a)]==_0x2e0077(0x1f4)&&find_embed_iframe());if(_0x1c351b[_0x2e0077(0x1f7)]&&_0x1c351b[_0x2e0077(0x1f7)][_0x2e0077(0x22b)]===_0x2e0077(0x17e)){const _0x4476b5=_0x1c351b[_0x2e0077(0x1f7)][_0x2e0077(0x155)],_0x3942ff=_0x1c351b[_0x2e0077(0x1f7)]['quiz_title']||'',_0xcbfbb9=_0x1c351b['data'][_0x2e0077(0x19f)]||'',_0x4676c3=_0x1c351b[_0x2e0077(0x1f7)][_0x2e0077(0x246)],_0x50bd54='quizify_analytics_track_'+_0x4476b5;let _0x48f397=null,_0x1370d8=[];const _0x55a9fd=getAppCookie(_0x50bd54);if(_0x55a9fd)try{_0x48f397=JSON[_0x2e0077(0x1b8)](_0x55a9fd),_0x1370d8=_0x48f397['products']||[];}catch(_0x58ee27){console['error'](_0x2e0077(0x23e),_0x58ee27);}const _0x366f19=mergeUniqueProducts(_0x1370d8,_0x4676c3),_0x2efcb2={'quiz_id':_0x4476b5,'quiz_title':_0x3942ff,'quiz_shortcode':_0xcbfbb9,'products':_0x366f19};setAppCookie(_0x50bd54,JSON[_0x2e0077(0x23d)](_0x2efcb2),0x1e);}});function CloseQuizPreview(){var _0xcb4084=a0_0x327a42;document[_0xcb4084(0x18e)](_0xcb4084(0x19c))['forEach'](function(_0x48526e){var _0x178b0c=_0xcb4084;_0x48526e[_0x178b0c(0x247)]();});const _0x5b9f49=document[_0xcb4084(0x1a5)](_0xcb4084(0x165));_0x5b9f49[_0xcb4084(0x247)]();var _0x5e43ff=location[_0xcb4084(0x229)],_0x3fc44a=_0x5e43ff[_0xcb4084(0x15e)](0x0,0xc);if(_0x5e43ff){if(_0x3fc44a==_0xcb4084(0x1a0)||_0x3fc44a==_0xcb4084(0x14f)||_0x3fc44a==_0xcb4084(0x1e1)){window['location'][_0xcb4084(0x229)]='';var _0x217806=new CustomEvent(_0xcb4084(0x263));window['dispatchEvent'](_0x217806);}}};function Popquiz(){var _0x5cda45=a0_0x327a42,_0x44066a=location['hash'],_0x29b096=_0x44066a[_0x5cda45(0x15e)](0x0,0xc),_0x3b1542=_0x44066a[_0x5cda45(0x203)](_0x29b096+'-');if(_0x44066a){if(_0x29b096==_0x5cda45(0x1a0)||_0x29b096==_0x5cda45(0x14f)||_0x29b096==_0x5cda45(0x1e1)){document[_0x5cda45(0x148)][_0x5cda45(0x17d)][_0x5cda45(0x1ce)]('quizify_pop'),document[_0x5cda45(0x15a)](_0x5cda45(0x175))[_0x5cda45(0x17d)][_0x5cda45(0x1ce)](_0x5cda45(0x1f3));var _0x206ae2=_0x3b1542[0x1][_0x5cda45(0x267)],_0x2a3ade=document['getElementById'](_0x5cda45(0x1f8));if(_0x206ae2>0x3)var _0xee1e=null;else{if(_0x2a3ade!=null)var _0xee1e=_0x2a3ade[_0x5cda45(0x265)](_0x5cda45(0x1c0));}var _0x2ead40=null,_0x1fe5d1=new URLSearchParams(window[_0x5cda45(0x224)][_0x5cda45(0x225)]);if(_0x1fe5d1[_0x5cda45(0x256)](_0x5cda45(0x140)))_0x2ead40=_0x1fe5d1[_0x5cda45(0x1f1)](_0x5cda45(0x140));else typeof Shopify!==_0x5cda45(0x266)&&Shopify[_0x5cda45(0x140)]&&(_0x2ead40=Shopify['locale']);var _0x260bd8=_0x44066a[_0x5cda45(0x203)](_0x5cda45(0x18b));shortcode_id=_0x260bd8[0x1];var _0x1c9641='fullsize';if(_0x260bd8[0x1]&&_0x260bd8[0x1][_0x5cda45(0x190)](_0x5cda45(0x20b))){var _0x4fa8f9=_0x260bd8[0x1]['split']('&size=');shortcode_id=_0x4fa8f9[0x0],_0x4fa8f9[0x1]&&(_0x1c9641=_0x4fa8f9[0x1]);}var _0x27ab8a=document[_0x5cda45(0x1ef)](_0x5cda45(0x20c));_0x27ab8a[_0x5cda45(0x1da)]=_0x5cda45(0x1d2),_0x27ab8a[_0x5cda45(0x215)](_0x5cda45(0x180),_0x5cda45(0x257)),_0x27ab8a[_0x5cda45(0x215)]('id',_0x5cda45(0x1e5));var _0x199f44=document[_0x5cda45(0x1ef)](_0x5cda45(0x20c));_0x199f44[_0x5cda45(0x1da)]=_0x5cda45(0x201),_0x199f44[_0x5cda45(0x215)](_0x5cda45(0x180),_0x5cda45(0x26a));let _0x22ad7d=document[_0x5cda45(0x1ef)](_0x5cda45(0x20c));_0x22ad7d[_0x5cda45(0x1da)]=_0x5cda45(0x1ba),_0x22ad7d[_0x5cda45(0x215)](_0x5cda45(0x180),_0x5cda45(0x26a));var _0x495b1d=document['createElement']('div');_0x495b1d[_0x5cda45(0x1da)]='quizify-pop-inner',_0x495b1d['setAttribute']('style',_0x5cda45(0x1c8));var _0x5e6701=document[_0x5cda45(0x1ef)](_0x5cda45(0x20c));_0x5e6701['className']=_0x5cda45(0x214)+_0x1c9641+_0x5cda45(0x191)+shortcode_id,_0x5e6701[_0x5cda45(0x215)](_0x5cda45(0x180),_0x5cda45(0x1f0));var _0x2095a9=document[_0x5cda45(0x1ef)](_0x5cda45(0x164));function _0x25d172(_0x292226,_0x2de10d){var _0x3e5087=_0x5cda45;for(var _0x29697d in _0x2de10d){_0x292226[_0x3e5087(0x215)](_0x29697d,_0x2de10d[_0x29697d]);}}_0x25d172(_0x2095a9,{'id':'iframeid','data-domain':window[_0x5cda45(0x224)][_0x5cda45(0x1e7)],'data-type':_0x5cda45(0x1bc),'title':_0x5cda45(0x243),'src':Api+'/'+shortcode_id+'/'+(_0xee1e||_0x5cda45(0x1fd))+'/'+(_0x2ead40||_0x5cda45(0x1fd))+_0x5cda45(0x248),'style':'width:\x20100%;height:100%;min-height:\x20100%;\x20border:none;\x20overflow:scroll;\x20\x20top:0px;\x20left:0px;\x20bottom:0px;display:\x20block;'}),_0x2095a9['onload']=function(){var _0x4f7f58=_0x5cda45;let _0x17960f=document[_0x4f7f58(0x150)](_0x4f7f58(0x1ba))[0x0],_0x62725e=document[_0x4f7f58(0x150)](_0x4f7f58(0x201))[0x0];_0x17960f&&_0x17960f[_0x4f7f58(0x247)](),_0x62725e&&_0x62725e[_0x4f7f58(0x247)]();};var _0x52be26=_0x5cda45(0x1f6)+_0x5cda45(0x22a)+'}',_0x26aa7f=_0x5cda45(0x159)+_0x5cda45(0x1c4)+'right:\x2020px;'+_0x5cda45(0x25b)+_0x5cda45(0x205)+_0x5cda45(0x254)+_0x5cda45(0x1c1)+_0x5cda45(0x223)+_0x5cda45(0x1d5)+'}';_0x26aa7f+=_0x26aa7f+='@media(max-width:1024px){'+_0x5cda45(0x159)+_0x5cda45(0x25b)+'right:\x2030px;'+'}'+'}',_0x26aa7f+=_0x5cda45(0x13e)+'position:\x20fixed;'+_0x5cda45(0x200)+'left:\x200;'+_0x5cda45(0x1fa)+_0x5cda45(0x1b7)+_0x5cda45(0x213)+'opacity:\x200.7;'+_0x5cda45(0x1b1)+'}',_0x26aa7f+=_0x5cda45(0x212)+_0x5cda45(0x16d)+_0x5cda45(0x22d)+_0x5cda45(0x273)+_0x5cda45(0x21e)+_0x5cda45(0x23b)+_0x5cda45(0x166)+'top:\x2050%;'+_0x5cda45(0x1c5)+_0x5cda45(0x223)+_0x5cda45(0x272)+'}'+'.quizify_loading::before\x20{'+_0x5cda45(0x26f)+'display:\x20block;'+_0x5cda45(0x1fa)+_0x5cda45(0x202)+_0x5cda45(0x1cc)+_0x5cda45(0x14e)+'}'+'@keyframes\x20progress\x20{'+_0x5cda45(0x1ae)+_0x5cda45(0x1b7)+'}'+'}',_0x26aa7f+=_0x5cda45(0x268)+_0x5cda45(0x142)+'}',_0x26aa7f+=_0x5cda45(0x1e0)+'\x20position:\x20absolute;'+_0x5cda45(0x178)+_0x5cda45(0x196)+'\x20height:\x2025px;'+_0x5cda45(0x219)+_0x5cda45(0x152)+'}',_0x26aa7f+=_0x5cda45(0x1e2)+_0x5cda45(0x1d1)+'}',_0x26aa7f+='.quizify-close-btn:after\x20{'+'transform:\x20rotate(-45deg);'+'}';var _0x4eaac3=document['createElement']('style');_0x4eaac3[_0x5cda45(0x27a)]='text/css',_0x4eaac3[_0x5cda45(0x1e3)](document[_0x5cda45(0x1ec)](_0x26aa7f));var _0x5313e3=document[_0x5cda45(0x1ef)]('style');_0x5313e3[_0x5cda45(0x27a)]=_0x5cda45(0x179),_0x5313e3['setAttribute']('id',_0x5cda45(0x165)),_0x5313e3['appendChild'](document[_0x5cda45(0x1ec)](_0x52be26));var _0x1b7c77=document[_0x5cda45(0x1ef)](_0x5cda45(0x1ac));_0x1b7c77[_0x5cda45(0x1da)]=_0x5cda45(0x237),_0x1b7c77[_0x5cda45(0x215)](_0x5cda45(0x1f9),'CloseQuizPreview()'),document[_0x5cda45(0x148)][_0x5cda45(0x1e8)](_0x27ab8a),document[_0x5cda45(0x244)][_0x5cda45(0x1e8)](_0x4eaac3,_0x5313e3),_0x27ab8a[_0x5cda45(0x1e3)](_0x495b1d),_0x27ab8a[_0x5cda45(0x1e3)](_0x199f44),_0x27ab8a[_0x5cda45(0x1e3)](_0x22ad7d),_0x495b1d['appendChild'](_0x5e6701),_0x5e6701[_0x5cda45(0x1e3)](_0x1b7c77),_0x5e6701[_0x5cda45(0x1e3)](_0x2095a9);var _0x708ed2='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Fullsize*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.quizify-fullscreen-sec.fullsize\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20max-width:\x20100%\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x20100%\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Medium\x20size*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.quizify-fullscreen-sec.medium\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20max-width:\x201280px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x2080%\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x20unset\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2020px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.quizify-fullscreen-sec.medium\x20.quizify-close-btn\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20right:\x2035px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:\x2035px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.quizify-fullscreen-sec.medium\x20iframe{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x20rgba(0,\x200,\x200,\x200.1)\x200px\x202px\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Small\x20size*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.quizify-fullscreen-sec.small\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20max-width:\x20840px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x2060%\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2020px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x20unset\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.quizify-fullscreen-sec.small\x20.quizify-close-btn\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20right:\x2035px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:\x2035px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.quizify-fullscreen-sec.small\x20iframe{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x20rgba(0,\x200,\x200,\x200.1)\x200px\x202px\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20/*client\x20close\x20button\x20CSS*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.quizify-fullscreen-sec.quizify_17b488286538fb82e8b39b987cde4063\x20.quizify-close-btn\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20opacity:\x201\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20',_0x5f5348=document[_0x5cda45(0x1ef)](_0x5cda45(0x180));_0x5f5348[_0x5cda45(0x27a)]=_0x5cda45(0x179),_0x5f5348[_0x5cda45(0x1e3)](document[_0x5cda45(0x1ec)](_0x708ed2)),document[_0x5cda45(0x244)][_0x5cda45(0x1e3)](_0x5f5348);var _0x4773ce={'PopAccessByquizify':!![]};setTimeout(function(){var _0x51011d=_0x5cda45,_0x4be058=document[_0x51011d(0x1a5)](_0x51011d(0x226))[_0x51011d(0x141)];_0x4be058[_0x51011d(0x20e)](_0x4773ce,'*');},0x3e8);}}}find_embed_iframe();function find_embed_iframe(){var _0x444290=a0_0x327a42,_0x435d07=document[_0x444290(0x1a5)](_0x444290(0x14c)),_0x1fb520=document[_0x444290(0x150)]('quizify');if(_0x1fb520['length']!=0x0)for(var _0x50f9dc=0x0;_0x50f9dc<_0x1fb520[_0x444290(0x267)];_0x50f9dc++){(_0x1fb520[_0x50f9dc]!=null||_0x1fb520[_0x50f9dc]!=undefined)&&embed_iframe(_0x1fb520[_0x50f9dc]);}else _0x435d07&&((_0x435d07!=null||_0x435d07!=undefined)&&embed_iframe(_0x435d07));}function preventeDuplication(){const _0xc18e7a=0x21;let _0x42213e=0x0;const _0x1d7d77=setInterval(()=>{const _0x5470b0=hideDuplicateIframe();_0x42213e++,(_0x5470b0||_0x42213e>=_0xc18e7a)&&clearInterval(_0x1d7d77);},0x12c);}function hideDuplicateIframe(){var _0x5543a2=a0_0x327a42;const _0x5df672=document[_0x5543a2(0x15a)](_0x5543a2(0x16f));if(!_0x5df672)return;const _0x56af56=_0x5df672[_0x5543a2(0x18e)](_0x5543a2(0x238));if(_0x56af56[_0x5543a2(0x267)]>0x1)return _0x56af56[0x1][_0x5543a2(0x180)][_0x5543a2(0x21a)]=_0x5543a2(0x185),!![];return![];}function embed_iframe(_0x59df04){var _0x1177b2=a0_0x327a42;_0x59df04[_0x1177b2(0x180)][_0x1177b2(0x204)]=_0x1177b2(0x1af),_0x59df04['style'][_0x1177b2(0x26c)]='100%',_0x59df04['style'][_0x1177b2(0x21a)]=_0x1177b2(0x23a),_0x59df04[_0x1177b2(0x180)][_0x1177b2(0x144)]='border-box';const _0x3a17e6=_0x59df04[_0x1177b2(0x1c9)]('rte-formatter');_0x3a17e6&&(console[_0x1177b2(0x1d3)](_0x1177b2(0x227),_0x3a17e6),_0x3a17e6[_0x1177b2(0x180)][_0x1177b2(0x204)]='100%',_0x3a17e6[_0x1177b2(0x180)][_0x1177b2(0x26c)]=_0x1177b2(0x1af),_0x3a17e6[_0x1177b2(0x180)]['display']=_0x1177b2(0x23a),_0x3a17e6[_0x1177b2(0x180)][_0x1177b2(0x14b)]('--width','100%'),_0x3a17e6[_0x1177b2(0x180)][_0x1177b2(0x14b)](_0x1177b2(0x264),'100%'));const _0xdecf7f=_0x59df04[_0x1177b2(0x1c9)](_0x1177b2(0x19e));_0xdecf7f&&(console['log'](_0x1177b2(0x1c3),_0xdecf7f),_0xdecf7f['style'][_0x1177b2(0x204)]='100%',_0xdecf7f[_0x1177b2(0x180)][_0x1177b2(0x26c)]=_0x1177b2(0x1af));var _0xd955e6=_0x59df04[_0x1177b2(0x265)]('data-store-id'),_0xccd21a=_0x59df04[_0x1177b2(0x265)](_0x1177b2(0x27e)),_0x157e00=null;shortcode_id=_0xd955e6;_0xd955e6[_0x1177b2(0x267)]<=0x3?_0x157e00=_0xccd21a:_0x157e00=null;var _0x5bc273=null,_0x49bb79=new URLSearchParams(window[_0x1177b2(0x224)][_0x1177b2(0x225)]);if(_0x49bb79[_0x1177b2(0x256)](_0x1177b2(0x140)))_0x5bc273=_0x49bb79[_0x1177b2(0x1f1)](_0x1177b2(0x140));else typeof Shopify!=='undefined'&&Shopify['locale']&&(_0x5bc273=Shopify['locale']);var _0xd7c6e5=document[_0x1177b2(0x1ef)]('iframe');_0xd7c6e5['id']=_0x1177b2(0x226),_0xd7c6e5['onload']=function(){AccessQuizFrameLoaderAfter(_0x59df04);},_0xd7c6e5[_0x1177b2(0x215)](_0x1177b2(0x1aa),_0xd955e6),_0xd7c6e5[_0x1177b2(0x215)]('class',_0x1177b2(0x1ad)+_0xd955e6),_0xd7c6e5[_0x1177b2(0x215)](_0x1177b2(0x1c0),_0x157e00),_0xd7c6e5['setAttribute'](_0x1177b2(0x154),_0x1177b2(0x243)),_0xd7c6e5['src']=Api+'/'+_0xd955e6+'/'+(_0x157e00||_0x1177b2(0x1fd))+'/'+(_0x5bc273||_0x1177b2(0x1fd)),_0xd7c6e5[_0x1177b2(0x180)]=_0x1177b2(0x24a),_0x59df04[_0x1177b2(0x1e3)](_0xd7c6e5),preventeDuplication();var _0x2a4452;function _0x3f10ed(){var _0x3763cd=_0x1177b2;window['addEventListener'](_0x3763cd(0x21f),_0x77f69a,![]);function _0x77f69a(_0x4129d7){if(_0x4129d7['origin']!==origin_URL)return;}var _0x3f3942=function(_0x298795){var _0x345cc4=_0x3763cd;if(_0x298795[_0x345cc4(0x26e)]!==origin_URL)return;var _0xe91f63;(_0x298795[_0x345cc4(0x1f7)]!=undefined||_0x298795['data']!=_0x345cc4(0x266)&&_0x298795[_0x345cc4(0x1f7)][_0x345cc4(0x275)])&&(_0x298795['data'][_0x345cc4(0x275)]&&_0x298795[_0x345cc4(0x1f7)][_0x345cc4(0x275)][_0x345cc4(0x1fe)]&&(_0xe91f63=_0x298795[_0x345cc4(0x1f7)][_0x345cc4(0x275)][_0x345cc4(0x1fe)],_0x2a4452=_0x59df04[_0x345cc4(0x150)](_0x345cc4(0x1ad)+_0xe91f63)));if(_0x2a4452&&_0x2a4452[_0x345cc4(0x267)]==0x1){var _0x1ad57c=0x0,_0x15dcb4=0x0;if(_0x298795[_0x345cc4(0x1f7)]!=undefined||_0x298795[_0x345cc4(0x1f7)]!=_0x345cc4(0x266)){_0x298795[_0x345cc4(0x1f7)]['quizify_frame_height']&&(_0x1ad57c=_0x298795[_0x345cc4(0x1f7)]['quizify_frame_height'],_0x15dcb4=_0x1ad57c+0x32,_0x2a4452[0x0]['style'][_0x345cc4(0x1a2)]=_0x1ad57c+'px');if(_0x298795[_0x345cc4(0x1f7)]['autoscroll']){if(_0x298795[_0x345cc4(0x1f7)][_0x345cc4(0x1e6)]==_0x345cc4(0x24f)||_0x298795[_0x345cc4(0x1f7)][_0x345cc4(0x1e6)]==!![]){const _0x51f1f5=-_0x298795[_0x345cc4(0x1f7)][_0x345cc4(0x1a6)],_0x12a969=_0x2a4452[0x0]['getBoundingClientRect']()[_0x345cc4(0x20f)]+window['pageYOffset']+_0x51f1f5;window[_0x345cc4(0x1df)]({'top':_0x12a969,'behavior':_0x345cc4(0x15d)});}}}else _0x2a4452[0x0][_0x345cc4(0x180)][_0x345cc4(0x198)]='500px';setTimeout(function(){var _0x13e8cc=_0x345cc4;_0x298795[_0x13e8cc(0x1f7)]==_0x13e8cc(0x172)&&_0x2a4452[0x0]['remove']();},0x3e8);}};if(window['addEventListener'])window[_0x3763cd(0x1ab)](_0x3763cd(0x21f),_0x3f3942,![]);else window[_0x3763cd(0x1cd)]&&window['attachEvent'](_0x3763cd(0x252),_0x3f3942);}_0x3f10ed(),window['onresize']=function(_0x310028){_0x3f10ed();};}function AccessQuizFrameLoaderAfter(){const _0x150547=document['querySelector']('.quizify-loader');_0x150547&&_0x150547['remove']();}var customer_resultby_id=document[a0_0x327a42(0x1a5)]('quizifyresults'),customer_resultby_class=document[a0_0x327a42(0x150)](a0_0x327a42(0x240));if(customer_resultby_class[a0_0x327a42(0x267)]!=0x0)for(var cr=0x0;cr<customer_resultby_class['length'];cr++){(customer_resultby_class[cr]!=null||customer_resultby_class[cr]!=undefined)&&load_result_widgets(customer_resultby_class[cr]);}customer_resultby_id&&((customer_resultby_id!=null||customer_resultby_id!=undefined)&&load_result_widgets(customer_resultby_id));function load_result_widgets(_0xde6689){var _0x3f6a3c=a0_0x327a42,_0x173c4c=_0xde6689[_0x3f6a3c(0x197)],_0x1c6773=_0xde6689['getAttribute'](_0x3f6a3c(0x249)),_0x558673=_0xde6689['getAttribute']('data-id'),_0x259b00,_0x31e028=localStorage[_0x3f6a3c(0x261)](_0x3f6a3c(0x207)+_0x558673),_0x1cfef6=_0xde6689[_0x3f6a3c(0x259)](_0x3f6a3c(0x27e)),_0xff484=null;if(_0x1cfef6==!![]){var _0x2b2ff9=_0xde6689[_0x3f6a3c(0x265)](_0x3f6a3c(0x27e));_0xff484=_0x2b2ff9;}else _0xff484=null;if(_0x31e028!=null)_0x259b00=_0x31e028,_0xde6689[_0x3f6a3c(0x215)](_0x3f6a3c(0x249),_0x31e028);else _0x31e028!=undefined?(_0x259b00=_0x31e028,_0xde6689[_0x3f6a3c(0x215)](_0x3f6a3c(0x249),_0x31e028)):_0x1c6773==''||_0x1c6773==undefined||_0x1c6773==_0x3f6a3c(0x206)?_0x259b00='emailNotdefine':(_0x259b00=window['btoa'](_0x1c6773),_0xde6689[_0x3f6a3c(0x215)](_0x3f6a3c(0x249),_0x259b00));if(_0x1cfef6==!![]){var _0x28fd8c=_0x173c4c[_0x3f6a3c(0x169)](''+_0x173c4c+'',_0x3f6a3c(0x181)+_0xff484+_0x3f6a3c(0x20a)+Api_response+'/'+_0x259b00+'/'+_0x558673+'/'+_0xff484+_0x3f6a3c(0x1b4));_0xde6689[_0x3f6a3c(0x197)]=_0x28fd8c;}else{var _0x70ab06=_0x173c4c['replace'](''+_0x173c4c+'',_0x3f6a3c(0x161)+_0xff484+_0x3f6a3c(0x20a)+Api_response+'/'+_0x259b00+'/'+_0x558673+'\x20style=\x27display:\x20block;\x20top:0px;\x20left:0px;\x20bottom:0px;height:700px;min-height:700px;right:0px;\x20width:100%;border:none;\x20margin:0;\x20padding:0;\x20overflow:hidden;\x20z-index:999999;\x27\x20></iframe>');_0xde6689[_0x3f6a3c(0x197)]=_0x70ab06;}function _0x11f7e2(){var _0x49c543=_0x3f6a3c;window[_0x49c543(0x1ab)](_0x49c543(0x21f),_0x569c34,![]);function _0x569c34(_0x2a5c4f){var _0x18d7f7=_0x49c543;if(_0x2a5c4f[_0x18d7f7(0x26e)]!==origin_URL)return;}var _0x245569=function(_0x29d1d6){var _0x480fb7=_0x49c543;if(_0x29d1d6[_0x480fb7(0x26e)]!==origin_URL)return;var _0x3b5197=document[_0x480fb7(0x1a5)](_0x480fb7(0x167));if(_0x3b5197){if(_0x29d1d6[_0x480fb7(0x1f7)]!=undefined||_0x29d1d6[_0x480fb7(0x1f7)]!='undefined'){if(_0x29d1d6['data']['enc_email']){var _0x5e9583=_0x29d1d6[_0x480fb7(0x1f7)]['enc_email'];_0xde6689[_0x480fb7(0x215)](_0x480fb7(0x249),_0x5e9583),localStorage['setItem'](_0x480fb7(0x207)+_0x558673,_0x5e9583);}}}};if(window[_0x49c543(0x1ab)])window[_0x49c543(0x1ab)]('message',_0x245569,![]);else window['attachEvent']&&window[_0x49c543(0x1cd)](_0x49c543(0x252),_0x245569);}_0x11f7e2(),window['onresize']=function(_0x4c3fc4){_0x11f7e2();};}function addTocart(_0x4fe19d,_0x59770c,_0x4e39d8,_0x579854,_0x1ea887,_0x3ec20a,_0x1ffd6f,_0x4c1805,_0x4b8285,_0x5f221f){return new Promise((_0x34d34b,_0x4b00e4)=>{var _0x1c799d=a0_0x562d,_0x15bbe1,_0x4894db,_0x606e39=document[_0x1c799d(0x150)]('quizifyIframe_'+_0x4fe19d),_0x16c2da=document[_0x1c799d(0x1a5)](_0x1c799d(0x22c));if(_0x606e39['length']!=0x0)_0x15bbe1=_0x606e39,_0x4894db=_0x15bbe1[0x0]['getAttribute'](_0x1c799d(0x1c0));else _0x16c2da!=null&&_0x16c2da['length']!=0x0?(_0x15bbe1=document[_0x1c799d(0x1a5)]('popup_iframe_id'),_0x4894db=_0x15bbe1[_0x1c799d(0x265)](_0x1c799d(0x1c0))):(_0x15bbe1=document[_0x1c799d(0x1a5)]('iframeid'),_0x4894db=_0x15bbe1[_0x1c799d(0x265)](_0x1c799d(0x1c0)));var _0xb62f2a=new XMLHttpRequest();_0xb62f2a['open']('POST',_0x1c799d(0x16c),!![]),_0xb62f2a[_0x1c799d(0x218)](_0x1c799d(0x188),'application/x-www-form-urlencoded'),_0xb62f2a[_0x1c799d(0x220)]=function(){var _0x114412=_0x1c799d;if(this[_0x114412(0x184)]===0x4){if(this[_0x114412(0x15b)]===0xc8){var _0x29b55e={'analytic_type':'add_to_cart','shortcode_id':shortcode_id,'add_to_cart':_0x579854,'quiz_domain':shortcode_id[_0x114412(0x267)]<=0x3?_0x4894db:null};if(_0x5f221f)setTimeout(function(){var _0x2f95c6=_0x114412,_0x4e8f7b=document['getElementsByClassName']('quizifyIframe_'+_0x4fe19d);if(_0x4e8f7b[_0x2f95c6(0x267)]!=0x0){_0x4e8f7b[0x0]['contentWindow'][_0x2f95c6(0x20e)](_0x29b55e,'*');var _0x10d7ee=new CustomEvent(_0x2f95c6(0x21b),{'detail':_0xb62f2a[_0x2f95c6(0x1dc)]});window[_0x2f95c6(0x157)](_0x10d7ee),UpdateCartBag();}else{if(document[_0x2f95c6(0x1a5)](_0x2f95c6(0x22c))){document[_0x2f95c6(0x1a5)](_0x2f95c6(0x22c))['contentWindow'][_0x2f95c6(0x20e)](_0x29b55e,'*');var _0x10d7ee=new CustomEvent(_0x2f95c6(0x21b),{'detail':_0xb62f2a['response']});window[_0x2f95c6(0x157)](_0x10d7ee),UpdateCartBag();}else{let _0x34882c=document['getElementById'](_0x2f95c6(0x226));if(_0x34882c[_0x2f95c6(0x267)]!=0x0){_0x34882c['contentWindow'][_0x2f95c6(0x20e)](_0x29b55e,'*');var _0x10d7ee=new CustomEvent('quizifyAddToCart',{'detail':_0xb62f2a[_0x2f95c6(0x1dc)]});window[_0x2f95c6(0x157)](_0x10d7ee),UpdateCartBag();}}}},0x3e8);else{var _0x27a5c2={'continue_cart':!![],'variant_id':_0x59770c};setTimeout(function(){var _0x1c180b=_0x114412,_0x1200f6=document[_0x1c180b(0x150)](_0x1c180b(0x1ad)+_0x4fe19d);if(_0x1200f6[_0x1c180b(0x267)]!=0x0)_0x1200f6[0x0][_0x1c180b(0x141)][_0x1c180b(0x20e)](_0x27a5c2,'*');else document[_0x1c180b(0x1a5)](_0x1c180b(0x22c))&&document[_0x1c180b(0x1a5)](_0x1c180b(0x22c))[_0x1c180b(0x141)][_0x1c180b(0x20e)](_0x27a5c2,'*');},0x3e8);}_0x34d34b(_0xb62f2a[_0x114412(0x1dc)]);}else _0x4b00e4(this[_0x114412(0x250)]||_0x114412(0x25c));}};if(_0x4c1805=='single'){var _0x3b806c=_0x1c799d(0x149)+0x1+_0x1c799d(0x193)+_0x59770c+_0x1c799d(0x1c6)+_0x1c799d(0x1de)+_0x1ea887+_0x1c799d(0x1b2)+_0x3ec20a;_0x1ffd6f&&(_0x3b806c+=_0x1c799d(0x195)+_0x1ffd6f[_0x1c799d(0x145)]+']='+_0x1ffd6f[_0x1c799d(0x19b)]),_0x4b8285&&(_0x3b806c+=_0x1c799d(0x1b5)+_0x4b8285),_0xb62f2a['send'](_0x3b806c);}else{if(_0x1ffd6f==undefined||_0x1ffd6f==null||_0x1ffd6f=='')_0xb62f2a[_0x1c799d(0x187)](_0x1c799d(0x149)+0x1+_0x1c799d(0x193)+_0x59770c+'&properties[_Source]=Quizify'+_0x1c799d(0x1de)+_0x1ea887+'&properties[_Quizify\x20Title]='+_0x3ec20a);else{if(_0x1ffd6f[_0x1c799d(0x267)]==0x0)_0xb62f2a[_0x1c799d(0x187)](_0x1c799d(0x149)+0x1+_0x1c799d(0x193)+_0x59770c+_0x1c799d(0x1c6)+_0x1c799d(0x1de)+_0x1ea887+_0x1c799d(0x1b2)+_0x3ec20a);else{const _0x4c12c0=_0x1ffd6f[_0x1c799d(0x25a)](_0x27c502=>_0x27c502['id']===_0x59770c);_0x4c12c0[_0x1c799d(0x267)]==0x1?_0xb62f2a[_0x1c799d(0x187)](_0x1c799d(0x149)+0x1+_0x1c799d(0x193)+_0x59770c+_0x1c799d(0x1c6)+'&properties[_Quizify\x20ID]='+_0x1ea887+_0x1c799d(0x1b2)+_0x3ec20a+_0x1c799d(0x195)+_0x4c12c0[0x0][_0x1c799d(0x176)]+']='+_0x4c12c0[0x0][_0x1c799d(0x258)]):_0xb62f2a['send']('quantity='+0x1+_0x1c799d(0x193)+_0x59770c+_0x1c799d(0x1c6)+_0x1c799d(0x1de)+_0x1ea887+'&properties[_Quizify\x20Title]='+_0x3ec20a);}}}});}function HitToCheckout(_0x59993f){var _0x481bc2=a0_0x327a42;if(_0x59993f['ids']){var _0x25115c=JSON[_0x481bc2(0x23d)](_0x59993f[_0x481bc2(0x15f)]),_0x25edc3=_0x25115c[_0x481bc2(0x169)](/[{()}"]/g,''),_0x76142e=_0x59993f[_0x481bc2(0x18d)],_0x45f40f=_0x59993f[_0x481bc2(0x163)],_0x207b10=_0x481bc2(0x255)+_0x59993f[_0x481bc2(0x1a3)]+_0x481bc2(0x160)+_0x25edc3;window[_0x481bc2(0x277)](_0x207b10,_0x481bc2(0x18c));}}function removeQTY(_0x5050a9,_0x3d8619){var _0x3df17e=a0_0x327a42;GETdata(_0x3df17e(0x21d),function(_0x4e4690){var _0x2edaf7=_0x3df17e,_0x1b9227=_0x4e4690;_0x1b9227[_0x2edaf7(0x27c)]['forEach'](function(_0xfa7c3){var _0x107f6d=_0x2edaf7;if(_0xfa7c3['id']==_0x5050a9){var _0x9f7318=_0xfa7c3[_0x107f6d(0x13d)]-0x1;_0x9f7318<0x0&&(_0x9f7318=0x0);var _0x297635={};_0x297635[_0x5050a9]=_0x9f7318,POSTdata('/cart/update.js',{'updates':_0x297635},function(_0x431666){UpdateCartBag();});}});});}function accessHTML(_0x295e8b){var _0xf05aba=a0_0x327a42;_0x295e8b&&_0x295e8b['length']>0x0&&GETdata(_0xf05aba(0x21d),function(_0x12b333){var _0x2bb805=_0xf05aba;for(var _0x3df0a3=0x0;_0x3df0a3<_0x295e8b[_0x2bb805(0x267)];_0x3df0a3++){var _0x30b5a1=_0x295e8b[_0x3df0a3];_0x30b5a1[_0x2bb805(0x197)]=_0x12b333['item_count'];}});}function GETdata(_0x45de8f,_0x29d460){var _0x290160=a0_0x327a42,_0x31a5a6=new XMLHttpRequest();_0x31a5a6[_0x290160(0x220)]=function(){var _0x86083d=_0x290160;_0x31a5a6[_0x86083d(0x184)]===0x4&&_0x31a5a6[_0x86083d(0x15b)]===0xc8&&_0x29d460(JSON[_0x86083d(0x1b8)](_0x31a5a6[_0x86083d(0x262)]));},_0x31a5a6[_0x290160(0x277)](_0x290160(0x17f),_0x45de8f,!![]),_0x31a5a6['send'](null);}function POSTdata(_0x1d24aa,_0x45aec5,_0x2bdcff){var _0x1be655=a0_0x327a42,_0x55cca3=new XMLHttpRequest();_0x55cca3[_0x1be655(0x220)]=function(){var _0x3f4e1c=_0x1be655;_0x55cca3[_0x3f4e1c(0x184)]===0x4&&_0x55cca3[_0x3f4e1c(0x15b)]===0xc8&&_0x2bdcff(JSON[_0x3f4e1c(0x1b8)](_0x55cca3[_0x3f4e1c(0x262)]));},_0x55cca3[_0x1be655(0x277)](_0x1be655(0x25e),_0x1d24aa,!![]),_0x55cca3[_0x1be655(0x218)](_0x1be655(0x188),_0x1be655(0x234)),_0x55cca3[_0x1be655(0x187)](JSON[_0x1be655(0x23d)](_0x45aec5));}function UpdateCartBag(){var _0x560ea2=a0_0x327a42;GETdata(_0x560ea2(0x21d),function(_0x22fd56){var _0x3984d1=_0x560ea2;const _0x59b91e=_0x22fd56[_0x3984d1(0x270)],_0x2d1000=document['querySelector'](_0x3984d1(0x25f));let _0x494d7e=_0x2d1000[_0x3984d1(0x15a)](_0x3984d1(0x182));_0x59b91e>0x0?!_0x494d7e?(_0x494d7e=document['createElement'](_0x3984d1(0x20c)),_0x494d7e[_0x3984d1(0x1da)]='cart-count-bubble',_0x494d7e[_0x3984d1(0x197)]=_0x3984d1(0x1b6)+_0x59b91e+_0x3984d1(0x1bf)+_0x59b91e+_0x3984d1(0x1d4)+(_0x59b91e>0x1?'s':'')+_0x3984d1(0x1ed),_0x2d1000['appendChild'](_0x494d7e)):(_0x494d7e[_0x3984d1(0x15a)]('span[aria-hidden=\x22true\x22]')['textContent']=_0x59b91e,_0x494d7e[_0x3984d1(0x15a)](_0x3984d1(0x173))[_0x3984d1(0x26d)]=_0x59b91e+_0x3984d1(0x1d4)+(_0x59b91e>0x1?'s':'')):_0x494d7e&&_0x494d7e[_0x3984d1(0x247)]();});}function getAppCookie(_0xd6526a){var _0x1a6959=a0_0x327a42;const _0x5a4d89=';\x20'+document[_0x1a6959(0x233)],_0x54052f=_0x5a4d89['split'](';\x20'+_0xd6526a+'=');if(_0x54052f['length']===0x2)return decodeURIComponent(_0x54052f[_0x1a6959(0x1dd)]()['split'](';')[_0x1a6959(0x26b)]());return null;}function setAppCookie(_0x43227f,_0x49738e,_0x29d038){var _0x59f960=a0_0x327a42;const _0x2afe28=new Date(Date['now']()+_0x29d038*0x18*0x3c*0x3c*0x3e8)[_0x59f960(0x156)]();document[_0x59f960(0x233)]=_0x43227f+'='+encodeURIComponent(_0x49738e)+_0x59f960(0x209)+_0x2afe28+_0x59f960(0x16a);}function mergeUniqueProducts(_0x8d5b03,_0x1c5859){var _0x50dbd7=a0_0x327a42;const _0xbb58df=new Set(_0x8d5b03['filter'](_0xd14925=>_0xd14925&&_0xd14925['id'])[_0x50dbd7(0x253)](_0x4cd777=>_0x4cd777['id']));return _0x1c5859[_0x50dbd7(0x22e)](_0x5973c6=>{var _0x35566f=_0x50dbd7;_0x5973c6&&_0x5973c6['id']&&!_0xbb58df['has'](_0x5973c6['id'])&&(_0x8d5b03[_0x35566f(0x170)](_0x5973c6),_0xbb58df[_0x35566f(0x1ce)](_0x5973c6['id']));}),_0x8d5b03;}const quizParser=new DOMParser(),quizParseHTML=_0x4994be=>quizParser[a0_0x327a42(0x1bb)](_0x4994be,'text/html'),quizDelay=_0x1b7974=>new Promise(_0x5b1a00=>setTimeout(_0x5b1a00,_0x1b7974)),quizEmptyClasses=[a0_0x327a42(0x242),'cart-drawer--empty'],quizGetCartDrawer=()=>document[a0_0x327a42(0x15a)](a0_0x327a42(0x1b3)),quizRemoveEmptyClasses=_0x2e324e=>_0x2e324e?.[a0_0x327a42(0x17d)][a0_0x327a42(0x247)](...quizEmptyClasses);window[a0_0x327a42(0x1ab)](a0_0x327a42(0x21b),async function(){var _0x39ce60=a0_0x327a42;await quizDelay(0x320);try{const _0x20280b=await fetch(_0x39ce60(0x21d))[_0x39ce60(0x230)](_0x5f3f53=>_0x5f3f53[_0x39ce60(0x24c)]()),_0x1f915d=quizGetCartDrawer();_0x1f915d?.[_0x39ce60(0x15a)]('dialog[open]')?.[_0x39ce60(0x17a)]();const _0x30bd90=_0x1f915d?.[_0x39ce60(0x15a)](_0x39ce60(0x1f2));if(_0x30bd90)_0x30bd90['open']=![];await quizDelay(0xc8);const _0xd64797=window[_0x39ce60(0x224)]['pathname']+'?sections=cart-drawer,header&_='+Date[_0x39ce60(0x1b0)](),_0x124203=await fetch(_0xd64797)[_0x39ce60(0x230)](_0x44720d=>_0x44720d[_0x39ce60(0x24c)]());if(_0x124203[_0x39ce60(0x231)]){const _0x339759=quizParseHTML(_0x124203['cart-drawer'])['querySelector'](_0x39ce60(0x1b3)),_0x3efc33=quizGetCartDrawer();if(_0x339759&&_0x3efc33){_0x3efc33[_0x39ce60(0x1ca)]=_0x339759[_0x39ce60(0x1ca)];if(_0x20280b[_0x39ce60(0x270)]>0x0)quizRemoveEmptyClasses(quizGetCartDrawer());}}if(_0x124203[_0x39ce60(0x1c2)]){const _0xcf690e=document[_0x39ce60(0x1a5)](_0x39ce60(0x143)),_0x14aa3c=quizParseHTML(_0x124203[_0x39ce60(0x1c2)])[_0x39ce60(0x15a)](_0x39ce60(0x1d0));_0xcf690e&&_0x14aa3c&&(_0xcf690e[_0x39ce60(0x197)]=_0x14aa3c[_0x39ce60(0x197)]);}await quizUpdateOldThemeCartDrawer(),await quizUpdateCartItems(),await quizDelay(0x64),quizOpenCartDrawer();}catch(_0xabee2b){quizOpenCartDrawer();}});async function quizUpdateOldThemeCartDrawer(){var _0x130c2d=a0_0x327a42;const _0x53554e=document[_0x130c2d(0x15a)](_0x130c2d(0x231));if(!_0x53554e)return;try{const _0x48e858=await fetch(window[_0x130c2d(0x224)][_0x130c2d(0x13f)]+_0x130c2d(0x24e)+Date[_0x130c2d(0x1b0)]())[_0x130c2d(0x230)](_0x89dd27=>_0x89dd27[_0x130c2d(0x17c)]()),_0x25d782=quizParseHTML(_0x48e858),_0x497f18=_0x25d782['querySelector']('cart-drawer');_0x497f18&&_0x53554e&&(_0x53554e[_0x130c2d(0x197)]=_0x497f18[_0x130c2d(0x197)],_0x53554e['classList'][_0x130c2d(0x247)](_0x130c2d(0x242)));}catch(_0x3328c7){}}async function quizUpdateCartItems(){var _0x501a96=a0_0x327a42;const _0x5994ce=document[_0x501a96(0x15a)](_0x501a96(0x1a1)),_0x5b845f=document[_0x501a96(0x15a)](_0x501a96(0x174));if(!_0x5994ce&&!_0x5b845f)return;try{const _0x44ad15=await fetch(location[_0x501a96(0x23f)]+_0x501a96(0x24d)+Date[_0x501a96(0x1b0)]())[_0x501a96(0x230)](_0x3b794c=>_0x3b794c[_0x501a96(0x17c)]()),_0x50934a=quizParseHTML(_0x44ad15);if(_0x5994ce){const _0x510f7a=_0x50934a[_0x501a96(0x15a)](_0x501a96(0x1a1));_0x510f7a&&(_0x5994ce[_0x501a96(0x197)]=_0x510f7a[_0x501a96(0x197)],quizRemoveEmptyClasses(quizGetCartDrawer()));}if(_0x5b845f){const _0x3af564=_0x50934a[_0x501a96(0x15a)](_0x501a96(0x174));_0x3af564&&(_0x5b845f[_0x501a96(0x197)]=_0x3af564[_0x501a96(0x197)],_0x5b845f[_0x501a96(0x17d)]['remove'](_0x501a96(0x251)));}}catch(_0x4c3049){}}function quizOpenCartDrawer(){var _0x3806c4=a0_0x327a42;const _0x5b0653=document['querySelector'](_0x3806c4(0x231));if(_0x5b0653){_0x5b0653[_0x3806c4(0x17d)][_0x3806c4(0x1ce)](_0x3806c4(0x17b)),_0x5b0653[_0x3806c4(0x17d)]['remove'](_0x3806c4(0x242));const _0x45fb29=_0x5b0653[_0x3806c4(0x15a)](_0x3806c4(0x239));_0x45fb29&&(_0x45fb29[_0x3806c4(0x277)]=!![]);document['body'][_0x3806c4(0x17d)][_0x3806c4(0x1ce)]('overflow-hidden');return;}const _0x2d6dbc=[document[_0x3806c4(0x15a)](_0x3806c4(0x1fc)),document[_0x3806c4(0x15a)](_0x3806c4(0x27d)),document[_0x3806c4(0x15a)](_0x3806c4(0x235)),document[_0x3806c4(0x15a)]('[data-cart-toggle]'),document[_0x3806c4(0x15a)](_0x3806c4(0x1a8)),document[_0x3806c4(0x15a)]('.cart-toggle'),document[_0x3806c4(0x15a)](_0x3806c4(0x25f)),document[_0x3806c4(0x15a)]('.cart-icon-bubble'),document['querySelector']('a[href*=\x22/cart\x22]')],_0x319a3a=_0x2d6dbc['find'](_0x54a0fe=>_0x54a0fe!==null);if(_0x319a3a){_0x319a3a[_0x3806c4(0x147)]();return;}console['log'](_0x3806c4(0x236));const _0x31d141=quizGetCartDrawer();if(_0x31d141){quizRemoveEmptyClasses(_0x31d141);const _0x5b06ca=_0x31d141['querySelector'](_0x3806c4(0x239))||_0x31d141[_0x3806c4(0x1c9)](_0x3806c4(0x239));if(_0x5b06ca){_0x5b06ca[_0x3806c4(0x277)]=!![];return;}_0x31d141[_0x3806c4(0x17d)]['add'](_0x3806c4(0x1f5),_0x3806c4(0x17b));return;}const _0x77cebb=[document[_0x3806c4(0x15a)](_0x3806c4(0x18f)),document['querySelector'](_0x3806c4(0x162)),document[_0x3806c4(0x15a)](_0x3806c4(0x168))],_0x1012e1=_0x77cebb[_0x3806c4(0x146)](_0x4841dd=>_0x4841dd!==null);if(_0x1012e1){_0x1012e1[_0x3806c4(0x17d)]['add'](_0x3806c4(0x17b),'is-open'),_0x1012e1[_0x3806c4(0x215)](_0x3806c4(0x1a9),_0x3806c4(0x14a)),document[_0x3806c4(0x148)]['classList'][_0x3806c4(0x1ce)](_0x3806c4(0x192));return;}}
+window.quizify_script_loaded = true;
+var origin_URL = "https://quizify-dev.arhamcommerce.com";
+var Api = origin_URL + "/quiz";
+var Api_response = origin_URL + "/QuizifyResults";
+var check_pop_quiz, PopupUrl;
+check_pop_quiz = location.hash;
+
+PopupUrl = check_pop_quiz.substr(0, 12);
+var shortcode_id;
+window.addEventListener('popstate', function (event) {
+    check_pop_quiz = location.hash;
+    PopupUrl = check_pop_quiz.substr(0, 12);
+    Popquiz(); //Full screen quiz code
+    // checkStartoverQuerystring();
+});
+/*
+|-----------------------------------------------------------------------------
+| GetQuizifyCartDetail() Update quizify products counter
+|-----------------------------------------------------------------------------
+|
+| Function will fetch cart details with inventory ids
+| and send these details to quizify product counter.
+|
+*/
+function GetQuizifyCartDetail(find_frame) {
+    GETdata('/cart.js', function (cart) {
+        var ids = [];
+        if (cart.items != '') {
+            cart.items.forEach(function (element) {
+                ids.push(element.variant_id);
+            });
+        }
+        if (ids != '') {
+            var Quizify_dstrslt = { 'update_quiz_cart': ids };
+            find_frame[0].contentWindow.postMessage(Quizify_dstrslt, '*');
+        }
+        else {
+            var Quizify_dstrslt = { 'update_quiz_cart': ids };
+            find_frame[0].contentWindow.postMessage(Quizify_dstrslt, '*');
+        }
+    });
+}
+
+/*
+|-----------------------------------------------------------------------------
+| checkStartoverQuerystring() Set startover=yes as querystring on external URL
+|-----------------------------------------------------------------------------
+|
+| This function will remove result data
+| and forcefully start quiz at index 0.
+|
+*/
+function checkStartoverQuerystring(find_frame) {
+    const startOverURL = new URLSearchParams(window.location.search);
+    if (startOverURL.has('startover') == true) {
+        for (const [key, value] of startOverURL) {
+            if (value == 'yes') {
+                var Quizify_dstrslt = { 'Quizify_dstrslt': true };
+                find_frame[0].contentWindow.postMessage(Quizify_dstrslt, '*');
+            }
+        }
+    }
+}
+/*
+|-----------------------------------------------------------------------------
+| FindmyQuizifyIframe() seek all quizify iframes to call some functions.
+|-----------------------------------------------------------------------------
+*/
+function FindmyQuizifyIframe() {
+    var QuizifyEle_by_class = document.getElementsByClassName("quizify");
+    var QuizifyEle_by_id = document.getElementById("quizify"); // find div if it has id.
+
+    if (QuizifyEle_by_id) {
+        if (QuizifyEle_by_id != null || QuizifyEle_by_id != undefined) {
+            QuizifyEmbed_find_by_ID_CLASS(QuizifyEle_by_id);
+        }
+    }
+    if (QuizifyEle_by_class.length != 0) {
+        for (var i = 0; i < QuizifyEle_by_class.length; i++) {
+            if (QuizifyEle_by_class[i] != null || QuizifyEle_by_class[i] != undefined) {
+                QuizifyEmbed_find_by_ID_CLASS(QuizifyEle_by_class[i]);
+            }
+        }
+    }
+}
+
+function QuizifyEmbed_find_by_ID_CLASS(QuizifyEle) {
+    var find_id = QuizifyEle.getAttribute("data-store-id");
+    var find_frame = QuizifyEle.getElementsByClassName("quizifyIframe_" + find_id);
+    if (find_frame.length != 0) {
+        find_frame[0].addEventListener("onload", checkStartoverQuerystring(find_frame));
+        find_frame[0].addEventListener("onload", GetQuizifyCartDetail(find_frame));
+        StopQuizifyIframeFinder();
+    }
+    else {
+        StopQuizifyIframeFinder();
+    }
+}
+
+function StopQuizifyIframeFinder() {
+    clearInterval(findquizframe);
+}
+var findquizframe = setInterval(FindmyQuizifyIframe, 300);
+/*-----------End---Find quizify iframe code--------------*/
+
+
+/*-----------Start---Data for popup quiz--------------*/
+var shortcode_styelsheet = document.createElement('link');
+shortcode_styelsheet.setAttribute('rel', 'stylesheet');
+shortcode_styelsheet.setAttribute('href', 'https://quizify-dev.arhamcommerce.com/css/shortcode.css');
+document.head.appendChild(shortcode_styelsheet);
+
+var script_tag = document.createElement('script');
+script_tag.setAttribute('src', 'https://quizify-dev.arhamcommerce.com/js/shortcode_popup_quiz.js');
+document.head.appendChild(script_tag);
+/*-----------End---Data for popup quiz--------------*/
+
+Popquiz(); //Full screen quiz code
+
+/*
+|-----------------------------------------------------------------------------
+| Track Analytics: It will find the product detail page and update line items
+|                  as per product result page.
+|-----------------------------------------------------------------------------
+*/
+(function () {
+    const urlParts = window.location.pathname.split('/');
+    const currentHandle = urlParts[urlParts.length - 1];
+
+    const cookies = document.cookie.split(';');
+    cookies.forEach(c => {
+        const [rawName, rawValue] = c.trim().split('=');
+        if (rawName.startsWith('quizify_analytics_track_')) {
+            try {
+                const parsed = JSON.parse(decodeURIComponent(rawValue));
+                const quizID = parsed.quiz_id;
+                const quizTitle = parsed.quiz_title || '';
+                const quiz_shortcode = parsed.quiz_shortcode || '';
+                const products = parsed.products || [];
+
+                function addHiddenFieldsIfNeeded(form) {
+                    if (!form.querySelector('input[name="properties[_Quizify Title]"]')) {
+                        const hidden1 = document.createElement('input');
+                        hidden1.type = 'hidden';
+                        hidden1.name = 'properties[_Quizify Title]';
+                        hidden1.value = quizTitle;
+
+                        const hidden2 = document.createElement('input');
+                        hidden2.type = 'hidden';
+                        hidden2.name = 'properties[_Source]';
+                        hidden2.value = 'Quizify';
+
+                        const hidden3 = document.createElement('input');
+                        hidden3.type = 'hidden';
+                        hidden3.name = 'properties[_Quizify ID]';
+                        hidden3.value = quizID;
+
+                        form.appendChild(hidden1);
+                        form.appendChild(hidden2);
+                        form.appendChild(hidden3);
+
+                        // console.log('Quizify: Added hidden fields to form');
+                    }
+                }
+
+                function attachSubmitClick(form) {
+                    const submitButtons = form.querySelectorAll('button[type="submit"]');
+                    submitButtons.forEach(btn => {
+                        if (!btn.dataset.quizifyAttached) { // avoid adding twice
+                            btn.dataset.quizifyAttached = 'true';
+                            btn.addEventListener('click', function () {
+                                var data = {
+                                    'analytic_type': 'add_to_cart',
+                                    'shortcode_id': quiz_shortcode,
+                                    'add_to_cart': 1,
+                                    'quiz_domain': null
+                                };
+                                var params = new URLSearchParams(data).toString();
+
+                                fetch(origin_URL + '/track_analytics', {
+                                    method: 'POST',
+                                    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+                                    body: params
+                                })
+                                    .then(response => {
+                                        if (!response.ok) {
+                                            throw new Error('Analytics tracking failed. Status: ' + response.status);
+                                        }
+                                        return response.text();
+                                    })
+                                    .then(() => {
+                                        //   console.log('Quizify: Analytics tracked successfully');
+                                    })
+                                    .catch(error => {
+                                        //   console.error('Quizify: Analytics error', error);
+                                    });
+                            });
+                        }
+                    });
+                }
+
+                // match by handle
+                function processFormsByHandle() {
+                    products.forEach(product => {
+                        if (product.handle === currentHandle) {
+                            const forms = document.querySelectorAll('form[action$="/cart/add"]');
+                            forms.forEach(form => {
+                                addHiddenFieldsIfNeeded(form);
+                                attachSubmitClick(form);
+                            });
+                        }
+                    });
+                }
+
+                // match by product id
+                function processFormsByProductId() {
+                    const forms = document.querySelectorAll('form[action$="/cart/add"]');
+                    forms.forEach(form => {
+                        const productIdInput = form.querySelector('input[name="product-id"]');
+                        if (productIdInput) {
+                            const formProductId = productIdInput.value;
+                            products.forEach(product => {
+                                const parts = product.id.split('/');
+                                const cookieProductId = parts[parts.length - 1];
+                                if (cookieProductId === formProductId) {
+                                    addHiddenFieldsIfNeeded(form);
+                                    attachSubmitClick(form);
+                                }
+                            });
+                        }
+                    });
+                }
+
+                // 🟢 STEP 1: on page load: check handle and product ids
+                processFormsByHandle();
+                processFormsByProductId();
+
+                // 🟢 STEP 2: on click: do product-id check again + observe for new forms
+                document.addEventListener('click', function () {
+                    processFormsByProductId();
+
+                    // observe for dynamically added forms for a few seconds
+                    const observer = new MutationObserver(() => {
+                        processFormsByProductId();
+                    });
+                    observer.observe(document.body, { childList: true, subtree: true });
+                    setTimeout(() => observer.disconnect(), 3000);
+                });
+
+            } catch (e) {
+                console.error('Quizify: Failed to parse quizify cookie data', e);
+            }
+        }
+    });
+})();
+
+// =============================
+// QUIZIFY OPEN PRODUCT HANDLER
+// =============================
+window.addEventListener("message", function (event) {
+    if (!event.data) return;
+
+    // Debug log for ALL incoming postMessages
+    // console.log("[Quizify Shortcode.js] Received postMessage:", event.data);
+
+    if (event.data.type === "quizify_open_product") {
+        const url = event.data.url;
+
+        // console.log("[Quizify Shortcode.js] Product URL request received:", url);
+
+        if (url) {
+            // console.log("[Quizify Shortcode.js] Opening product URL in parent window...");
+            window.open(url, "_blank");
+
+            // console.log("[Quizify Shortcode.js] URL opened successfully:", url);
+        } else {
+            // console.warn("[Quizify Shortcode.js] Received empty or invalid product URL.");
+        }
+    }
+});
+
+/*
+|-----------------------------------------------------------------------------
+| Event listener: All event listener list
+|-----------------------------------------------------------------------------
+*/
+window.addEventListener("message", function (event) {
+    if (event.data.view == 'customer_result') {
+        HitToCheckout(event.data);
+    }
+    if (event.data.variant_id && event.data.action == 'AddQty') {
+        var variant_id = event.data.variant_id;
+        var fromNumber = 1;
+        let isLastItem = true;
+        var i = 1;
+        var plain_quiz_id = event.data.plain_quiz_id; //New-Analytics-Code-S
+        var plain_quiz_title = event.data.plain_quiz_title; //New-Analytics-Code-S
+        var selectedSellingPlanValue = event.data.selectedSellingPlanValue; //Selling-plans
+        var custom_input = event.data.custom_input;
+        var quiz_prv_id = event.data.quiz_prv_id;
+        var domain_name = null;
+        addTocart(quiz_prv_id, variant_id, fromNumber, i, plain_quiz_id, plain_quiz_title, custom_input, type = 'single', selectedSellingPlanValue, isLastItem); //Add to cart call //Selling-plans
+    }
+    else if (event.data.variant_id && event.data.action == 'RemoveQty') {
+        var variant_id = event.data.variant_id;
+        var fromNumber = 1;
+        removeQTY(variant_id, fromNumber);
+    }
+    //single add to cart
+
+    //multiple cart
+    if (event.data.all_variant) {
+        var var_ids = event.data.all_variant;
+        var custom_input = event.data.custom_input;
+        var selectedSellingPlanValue = null; // Selling-plans
+        var domain_name = null;
+        var quiz_prv_id = event.data.quiz_prv_id;
+
+        let index = 0;
+
+        async function addNext() {
+            if (index >= var_ids.length) {
+                return;
+            }
+
+            try {
+                await addTocart(
+                    quiz_prv_id,
+                    var_ids[index],
+                    var_ids.length, // total
+                    index + 1,        // current
+                    plain_quiz_id,
+                    plain_quiz_title,
+                    custom_input,
+                    'multiple',
+                    selectedSellingPlanValue,
+                    index == var_ids.length - 1
+                );
+            } catch (err) {
+                // console.error('Add to cart failed for index', index, err);
+            }
+
+            index++;
+            setTimeout(addNext, 1000); // wait before adding next
+        }
+
+        addNext();
+    }
+
+    //when quiz is submitted` with successfull response
+    if (event.data == 'quizifyResult') {
+        var evt = new CustomEvent('quizifyResult', { detail: this.response });
+        window.dispatchEvent(evt);
+        var check_popup = document.getElementsByClassName("quizify-pop-container");
+        if (check_popup.length == 1) {
+            var nFilter = document.getElementById('iframeid');
+            nFilter.style.height = '99.9%';
+            nFilter.style.overflow = 'auto';
+            nFilter.style.minHeight = '99.9%';
+            setTimeout(() => {
+
+                nFilter.style.height = '100%';
+                nFilter.style.minHeight = '100%';
+            }, 5000);
+        }
+    }
+
+    if (event.data.QuizifyResultCheckout == 'forwardToStore') {
+        if (event.data.forward_to) {
+            window.open("/" + event.data.forward_to, "_self");
+        }
+        else {
+            window.open("/cart", "_self");
+        }
+    }
+
+    if (event.data.type) {
+        if (event.data.type == 'StorefrontMessage::ReplaceSection') {
+            find_embed_iframe();
+        }
+    }
+    if (event.data && event.data.name === 'quizify_global_track') {
+        const quizID = event.data.quiz_id;
+        const quizTitle = event.data.quiz_title || ''; // capture title if sent
+        const quizShortcode = event.data.quiz_shortcode || ''; // capture title if sent
+        const payload = event.data.payload;
+        const cookieName = 'quizify_analytics_track_' + quizID;
+
+        let storedObj = null;
+        let storedArray = [];
+        const existing = getAppCookie(cookieName);
+        if (existing) {
+            try {
+                storedObj = JSON.parse(existing);
+                storedArray = storedObj.products || [];
+            } catch (e) { console.error('Failed to parse existing cookie JSON', e); }
+        }
+
+        // Merge new products
+        const updatedArray = mergeUniqueProducts(storedArray, payload);
+
+        // Build new cookie object
+        const newCookieObj = {
+            quiz_id: quizID,
+            quiz_title: quizTitle,
+            quiz_shortcode: quizShortcode,
+            products: updatedArray
+        };
+
+        // Store back with 30 days expiry
+        setAppCookie(cookieName, JSON.stringify(newCookieObj), 30);
+
+    }
+});
+
+
+/*-----------------Start---Full screen quiz close preview code-------------*/
+function CloseQuizPreview() {
+    document.querySelectorAll('.quizify-pop-container').forEach(function (a) {
+        a.remove();
+    });
+    const body_ef = document.getElementById("quizify_add_body_overflow");
+    body_ef.remove();
+    var check_pop_quiz = location.hash
+    var PopupUrl = check_pop_quiz.substr(0, 12);
+    if (check_pop_quiz) {
+        if (PopupUrl == 'quizify-pop' || PopupUrl == '#quizify-pop' || PopupUrl == '/#quizify-pop') {
+            window.location.hash = '';
+
+            // popup close event
+            var evt = new CustomEvent('quizifyPopupClosed');
+            window.dispatchEvent(evt);
+        }
+    }
+};
+/*-----------------End---Full screen quiz close preview code-------------*/
+
+/*-----------------Start---Full screen quiz code-------------*/
+function Popquiz() {
+
+    var check_pop_quiz = location.hash
+    var PopupUrl = check_pop_quiz.substr(0, 12);
+    var PopShorcodeLength = check_pop_quiz.split(PopupUrl + '-');
+    // console.log('Quizify URL Analysis:', {
+    //     hash: check_pop_quiz,
+    //     popupUrl: PopupUrl,
+    //     shortcodeLength: PopShorcodeLength
+    // });
+
+    if (check_pop_quiz) {
+        if (PopupUrl == 'quizify-pop' || PopupUrl == '#quizify-pop' || PopupUrl == '/#quizify-pop') {
+            document.body.classList.add("quizify_pop");
+            document.querySelector("html").classList.add("quizify_pop");
+            var GetShortcodeLength = PopShorcodeLength[1].length;
+
+            var quizify_prv_by_id = document.getElementById("quizifybadge"); // find div if it has id.
+            if (GetShortcodeLength > 3) {
+                var domain_name = null;
+            }
+            else {
+                if (quizify_prv_by_id != null) {
+                    var domain_name = quizify_prv_by_id.getAttribute("data-domain");
+                }
+            }
+
+            // Extract locale from query string or use Shopify.locale if available, otherwise use null
+            var locale = null;
+            var urlParams = new URLSearchParams(window.location.search);
+            if (urlParams.has('locale')) {
+                locale = urlParams.get('locale');
+            } else if (typeof Shopify !== 'undefined' && Shopify.locale) {
+                locale = Shopify.locale;
+            }
+
+            ////Build quiz elements////
+            var left_text = check_pop_quiz.split('#quizify-pop-');
+            shortcode_id = left_text[1];
+
+            // Parse size parameter from URL
+            var size = 'fullsize'; // default size
+            if (left_text[1] && left_text[1].includes('&size=')) {
+                var sizeParts = left_text[1].split('&size=');
+                shortcode_id = sizeParts[0]; // Update shortcode_id to remove size parameter
+                if (sizeParts[1]) {
+                    size = sizeParts[1];
+                }
+            }
+
+            var first_quiz_div = document.createElement('div');
+            first_quiz_div.className = "quizify-pop-container";
+            first_quiz_div.setAttribute("style", "display: block;position:relative");
+            first_quiz_div.setAttribute("id", "QuizifyPopContainer");
+            var loader_backdrop = document.createElement('div');
+            loader_backdrop.className = "quizify_backdrop";
+            loader_backdrop.setAttribute("style", "display: block !important;");
+            let loader = document.createElement('div');
+            loader.className = "quizify_loading";
+            loader.setAttribute("style", "display: block !important;");
+            var second_quiz_div = document.createElement('div');
+            second_quiz_div.className = "quizify-pop-inner";
+            second_quiz_div.setAttribute("style", "display: block;margin:0;border:0;padding:0;outline: 0;box-sizing: border-box;position: fixed;top: 0px;left: 0px;width: 100%;height: 100%;background-color: rgba(0, 0, 0, 0.5);z-index: 9999999;");
+
+            var third_quiz_div = document.createElement('div');
+            third_quiz_div.className = "quizify-fullscreen-sec " + size + " quizify_" + shortcode_id;
+            third_quiz_div.setAttribute("style", "opacity: 1;position: relative;width: 100%;height: 80%;max-width: 1280px;margin: 0px auto;border-radius: 8px;padding: 0px;z-index: 22;top: 50%;transform: translateY(-50%);box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 10px;display: flex;flex-flow: column;overflow: hidden;");
+
+            var fourth_quiz_div = document.createElement('iframe');
+
+            function setAttributes(el, attrs) {
+                for (var key in attrs) {
+                    el.setAttribute(key, attrs[key]);
+                }
+            }
+            setAttributes(fourth_quiz_div, {
+                "id": "iframeid",
+                "data-domain": window.location.host,
+                'data-type': 'quizify-popup',
+                'title': 'Quizify ‑ Product Quiz Builder',
+                "src": Api + "/" + shortcode_id + "/" + (domain_name || 'null') + "/" + (locale || 'null') + '?quizify-pop-quiz',
+                "style": "width: 100%;height:100%;min-height: 100%; border:none; overflow:scroll;  top:0px; left:0px; bottom:0px;display: block;"
+            });
+            fourth_quiz_div.onload = function () {
+                let loadingElement = document.getElementsByClassName("quizify_loading")[0];
+                let loadingdrop = document.getElementsByClassName("quizify_backdrop")[0];
+                if (loadingElement) {
+                    loadingElement.remove();
+                }
+                if (loadingdrop) {
+                    loadingdrop.remove();
+                }
+            };
+            // console.log('Quizify Container Created:', {
+            //     className: third_quiz_div.className,
+            //     size: size,
+            //     shortcodeId: shortcode_id
+            // });
+            var add_overflow_body =
+                'body {' +
+                'overflow:hidden' +
+                '}';
+            var setDeleteprop =
+                '.quizify-close-btn {' +
+                'position: absolute;' +
+                'right: 20px;' +
+                'top: 20px;' +
+                'width: 25px;' +
+                'height: 25px;' +
+                'opacity: 0.3;' +
+                'z-index: 2147483647;' +
+                'cursor:pointer;' +
+                '}';
+            setDeleteprop +=
+
+                setDeleteprop += '@media(max-width:1024px){' +
+                '.quizify-close-btn {' +
+                'top: 20px;' +
+                'right: 30px;' +
+                '}' +
+                '}';
+            setDeleteprop +=
+                '.quizify_backdrop{' +
+                'position: fixed;' +
+                ' top: 0;' +
+                'left: 0;' +
+                'height: 100%;' +
+                'width: 100%;' +
+                'background-color: #ffffff;' +
+                'opacity: 0.7;' +
+                'z-index: 2147483646;' +
+                '}';
+            setDeleteprop +=
+                '.quizify_loading {' +
+                'height: 5px;' +  // Set the height to match quizify-loader
+                'width: 150px;' + // Set the width to match quizify-loader
+                'border-radius: 20px;' + // Border radius from quizify-loader
+                'background: #ddd;' + // Background color from quizify-loader
+                'position: fixed;' +
+                'left: 50%;' +
+                'top: 50%;' +
+                'transform: translate(-50%, -50%);' + // Center it like quizify-loader
+                'z-index: 2147483647;' +
+                'overflow: hidden;' +
+                '}' +
+                '.quizify_loading::before {' +
+                'content: "";' +
+                'display: block;' +
+                'height: 100%;' +
+                'width: 0;' +
+                'background: #000;' +
+                'animation: progress 10s linear infinite;' +
+                '}' +
+                '@keyframes progress {' +
+                '100% {' +
+                'width: 100%;' +
+                '}' +
+                '}';
+            setDeleteprop += '.quizify-close-btn:hover {' +
+                'opacity: 1;' +
+                '}';
+            setDeleteprop += '.quizify-close-btn:before, .quizify-close-btn:after {' +
+                ' position: absolute;' +
+                'left: 15px;' +
+                ' content: " ";' +
+                ' height: 25px;' +
+                ' width: 2px;' +
+                'background-color: #333;' +
+                '}';
+            setDeleteprop += '.quizify-close-btn:before {' +
+                ' transform: rotate(45deg);' +
+                '}';
+            setDeleteprop += '.quizify-close-btn:after {' +
+                'transform: rotate(-45deg);' +
+                '}';
+
+            var closeEle = document.createElement('style');
+            closeEle.type = 'text/css';
+            closeEle.appendChild(document.createTextNode(setDeleteprop));
+
+            var add_body_of = document.createElement('style');
+            add_body_of.type = 'text/css';
+            add_body_of.setAttribute("id", 'quizify_add_body_overflow');
+            add_body_of.appendChild(document.createTextNode(add_overflow_body));
+
+            var closeIcon = document.createElement('span');
+            closeIcon.className = "quizify-close-btn";
+            closeIcon.setAttribute("onclick", 'CloseQuizPreview()'); //Full screen quiz close preview code
+            ////Append quiz props to body////
+
+            document.body.append(first_quiz_div);
+            document.head.append(closeEle, add_body_of);
+            first_quiz_div.appendChild(second_quiz_div);
+            first_quiz_div.appendChild(loader_backdrop);
+            first_quiz_div.appendChild(loader);
+            second_quiz_div.appendChild(third_quiz_div);
+            third_quiz_div.appendChild(closeIcon);
+            third_quiz_div.appendChild(fourth_quiz_div);
+
+            // Add size-specific CSS
+            var sizeStyles = `
+                /* Fullsize*/
+                .quizify-fullscreen-sec.fullsize {
+                    max-width: 100% !important;
+                    height: 100% !important;
+                }
+                
+                /* Medium size*/
+                .quizify-fullscreen-sec.medium {
+                    max-width: 1280px !important;
+                    height: 80% !important;
+                    box-shadow: unset !important;
+                    padding: 20px !important;
+                }
+                .quizify-fullscreen-sec.medium .quizify-close-btn {
+                    right: 35px !important;
+                    top: 35px !important;
+                }
+                .quizify-fullscreen-sec.medium iframe{
+                    border-radius: 8px;
+                    box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 10px;
+                }
+
+                 /* Small size*/
+                .quizify-fullscreen-sec.small {
+                    max-width: 840px !important;
+                    height: 60% !important;
+                    padding: 20px !important;
+                    box-shadow: unset !important;
+                }
+                .quizify-fullscreen-sec.small .quizify-close-btn {
+                    right: 35px !important;
+                    top: 35px !important;
+                }
+                .quizify-fullscreen-sec.small iframe{
+                    border-radius: 8px;
+                    box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 10px;
+                }
+
+                /*client close button CSS*/
+                .quizify-fullscreen-sec.quizify_17b488286538fb82e8b39b987cde4063 .quizify-close-btn {
+                    opacity: 1 !important;
+                }
+               
+                
+            `;
+
+            var styleElement = document.createElement('style');
+            styleElement.type = 'text/css';
+            styleElement.appendChild(document.createTextNode(sizeStyles));
+            document.head.appendChild(styleElement);
+
+
+            var PopAccessByquizify = { 'PopAccessByquizify': true };
+            setTimeout(function () {
+                var destination = document.getElementById('iframeid').contentWindow;
+                destination.postMessage(PopAccessByquizify, '*');
+            }, 1000);
+        }
+    }
+}
+/*-----------------End---Full screen quiz code-------------*/
+
+/*
+|-----------------------------------------------------------------------------
+| Quiz Embed preview start
+|-----------------------------------------------------------------------------
+*/
+find_embed_iframe();
+function find_embed_iframe() {
+    var quizify_prv_by_id = document.getElementById("quizify"); // find div if it has id.
+    var quizify_prv_by_class = document.getElementsByClassName("quizify"); // find div if it has classes.
+
+    // Condition for check div with classes.
+    if (quizify_prv_by_class.length != 0) {
+        for (var qr = 0; qr < quizify_prv_by_class.length; qr++) {
+            if (quizify_prv_by_class[qr] != null || quizify_prv_by_class[qr] != undefined) {
+                embed_iframe(quizify_prv_by_class[qr]);
+            }
+        }
+    }
+    else {
+        // Condition for check div only with id.
+        if (quizify_prv_by_id) {
+            if (quizify_prv_by_id != null || quizify_prv_by_id != undefined) {
+                embed_iframe(quizify_prv_by_id);
+            }
+        }
+    }
+}
+function preventeDuplication() {
+    const maxAttempts = 33; // ~10 seconds
+    let attempts = 0;
+    const interval = setInterval(() => {
+        const success = hideDuplicateIframe();
+        attempts++;
+        if (success || attempts >= maxAttempts) {
+            clearInterval(interval);
+        }
+    }, 300);
+
+}
+function hideDuplicateIframe() {
+    const container = document.querySelector(".quizify");
+    if (!container) return;
+
+    const iframes = container.querySelectorAll("iframe#iframeid");
+    if (iframes.length > 1) {
+        iframes[1].style.display = "none";
+        return true; // Stop polling
+    }
+    return false; // Keep polling
+}
+
+
+function embed_iframe(quizify_prv) {
+    // Force Quizify Shopify App Block to full width
+    // 1. Force quizify itself
+    quizify_prv.style.width = '100%';
+    quizify_prv.style.maxWidth = '100%';
+    quizify_prv.style.display = 'block';
+    quizify_prv.style.boxSizing = 'border-box';
+
+    // 2. Fix rte-formatter if present
+    const rteWrapper = quizify_prv.closest('rte-formatter');
+
+    if (rteWrapper) {
+        console.log('[Quizify] Found rte-formatter wrapper:', rteWrapper);
+
+        rteWrapper.style.width = '100%';
+        rteWrapper.style.maxWidth = '100%';
+        rteWrapper.style.display = 'block';
+        rteWrapper.style.setProperty('--width', '100%');
+        rteWrapper.style.setProperty('--max-width', '100%');
+
+    }
+
+    // 3. Also handle Shopify App Block if present
+    const appBlock = quizify_prv.closest('.shopify-app-block[data-block-handle="quizify_preview"]');
+    if (appBlock) {
+        console.log('[Quizify] Found Shopify App Block wrapper:', appBlock);
+        appBlock.style.width = '100%';
+        appBlock.style.maxWidth = '100%';
+    }
+
+    var get_id = quizify_prv.getAttribute("data-store-id");
+    var get_shop_domain = quizify_prv.getAttribute("data-shop-domain");
+    var quizify_domain_tail = null;
+
+    shortcode_id = get_id;
+    if (get_id.length <= 3) {
+        quizify_domain_tail = get_shop_domain;
+    }
+    else {
+        quizify_domain_tail = null;
+    }
+
+    // Extract locale from query string or use Shopify.locale if available, otherwise use null
+    var locale = null;
+    var urlParams = new URLSearchParams(window.location.search);
+    if (urlParams.has('locale')) {
+        locale = urlParams.get('locale');
+    } else if (typeof Shopify !== 'undefined' && Shopify.locale) {
+        locale = Shopify.locale;
+    }
+
+    // AccessQuizFrameLoader(get_id,quizify_prv,quizify_domain_tail);
+
+    var iframe = document.createElement('iframe');
+    iframe.id = 'iframeid';
+    iframe.onload = function () {
+        AccessQuizFrameLoaderAfter(quizify_prv); // Ensure this function exists and works
+    };
+    iframe.setAttribute('data-frameid', get_id);
+    iframe.setAttribute('class', 'quizifyIframe_' + get_id);
+    iframe.setAttribute('data-domain', quizify_domain_tail);
+    iframe.setAttribute('title', 'Quizify ‑ Product Quiz Builder');
+    iframe.src = Api + "/" + get_id + "/" + (quizify_domain_tail || 'null') + "/" + (locale || 'null');
+    iframe.style = 'display: block; top:0px; left:0px; bottom:0px;min-height:500px;right:0px; width:100%;border:none; margin:0; padding:0; overflow:hidden; z-index:999999;';
+
+    // Append the iframe to the parent element
+    quizify_prv.appendChild(iframe);
+    preventeDuplication();
+    /*-----------------Start---Iframe height resize call-------------*/
+    var find_frame;
+    function resize_iframe_page() {
+        window.addEventListener("message", myListener, false);
+
+        function myListener(event) {
+            if (event.origin !== origin_URL) {
+                return;
+            }
+        }
+        var zino_resize = function (event) {
+            if (event.origin !== origin_URL) {
+                return;
+            }
+            var get_post_id;
+            if (event.data != undefined || event.data != 'undefined' && event.data.quiz_ids) {
+                if (event.data.quiz_ids && event.data.quiz_ids.quiz_shortcode_id) {
+                    get_post_id = event.data.quiz_ids.quiz_shortcode_id;
+                    find_frame = quizify_prv.getElementsByClassName("quizifyIframe_" + get_post_id);
+                }
+            }
+
+            if (find_frame && find_frame.length == 1) {
+                var quizheight = 0;
+                var midpix = 0;
+                if (event.data != undefined || event.data != 'undefined') {
+                    if (event.data.quizify_frame_height) {
+                        quizheight = event.data.quizify_frame_height;
+                        midpix = quizheight + 50;
+                        find_frame[0].style.height = quizheight + "px";
+                    }
+                    if (event.data.autoscroll) {
+                        if (event.data.autoscroll == 'true' || event.data.autoscroll == true) {
+                            const yOffset = -event.data.ScrollToTop;
+                            const y = find_frame[0].getBoundingClientRect().top + window.pageYOffset + yOffset;
+                            window.scrollTo({
+                                top: y,
+                                behavior: 'smooth'
+                            });
+                        }
+                    }
+                    // if (quizheight <= 100) {
+                    //     midpix = quizheight + 450;
+                    // }
+                    // else {
+                    // }
+
+                } else {
+                    find_frame[0].style.minHeight = '500px';
+                }
+                setTimeout(function () {
+                    if (event.data == "No_frame") {
+                        find_frame[0].remove()
+                    }
+                }, 1000);
+            }
+        };
+        if (window.addEventListener) {
+            window.addEventListener("message", zino_resize, false);
+
+        } else if (window.attachEvent) {
+            window.attachEvent("onmessage", zino_resize);
+
+        }
+    }
+
+    /*-----------------End---Iframe height resize call-------------*/
+
+    resize_iframe_page(); //Iframe height resize call
+
+    window.onresize = function (event) {
+        resize_iframe_page(); //Iframe height resize call
+    };
+}
+function AccessQuizFrameLoaderAfter() {
+    const loaderContainer = document.querySelector('.quizify-loader');
+    if (loaderContainer) {
+        loaderContainer.remove();
+    }
+}
+
+/*
+|-----------------------------------------------------------------------------
+| Customer result widget start
+|-----------------------------------------------------------------------------
+*/
+var customer_resultby_id = document.getElementById("quizifyresults"); // find div if it has id.
+var customer_resultby_class = document.getElementsByClassName("quizifyresults"); // find div if it has classes.
+// Condition for check div with classes.
+if (customer_resultby_class.length != 0) {
+    for (var cr = 0; cr < customer_resultby_class.length; cr++) {
+        if (customer_resultby_class[cr] != null || customer_resultby_class[cr] != undefined) {
+            load_result_widgets(customer_resultby_class[cr]);
+        }
+    }
+}
+// Condition for check div only with id.
+if (customer_resultby_id) {
+    if (customer_resultby_id != null || customer_resultby_id != undefined) {
+        load_result_widgets(customer_resultby_id);
+    }
+}
+/*
+| Load result function intialize for both id and classes condition.
+*/
+function load_result_widgets(customer_result) {
+    var str = customer_result.innerHTML;
+    var get_email_id = customer_result.getAttribute("data-source");
+    var QuizId = customer_result.getAttribute("data-id");
+    var encrypted_email;
+    //data-shop-domain
+    var getfrom_ls = localStorage.getItem("Quizify_result_widget" + QuizId);
+    var check_domain = customer_result.hasAttribute("data-shop-domain");
+    var quizify_domain_tail = null;
+    if (check_domain == true) {
+        var get_shop_domain = customer_result.getAttribute("data-shop-domain");
+        quizify_domain_tail = get_shop_domain;
+    }
+    else {
+        quizify_domain_tail = null;
+    }
+
+    if (getfrom_ls != null) {
+        encrypted_email = getfrom_ls;
+        customer_result.setAttribute("data-source", getfrom_ls);
+    }
+    else if (getfrom_ls != undefined) {
+        encrypted_email = getfrom_ls;
+        customer_result.setAttribute("data-source", getfrom_ls);
+    }
+    else {
+        if (get_email_id == '' || get_email_id == undefined || get_email_id == '{{ customer.email }}') {
+            encrypted_email = 'emailNotdefine';
+        }
+        else {
+            encrypted_email = window.btoa(get_email_id);
+            customer_result.setAttribute("data-source", encrypted_email);
+        }
+    }
+    if (check_domain == true) {
+        var res_one = str.replace("" + str + "", "<iframe id='quizify_result_frame' title='Quizify ‑ Product Quiz Builder' class='quizify_result_frame' data-domain='" + quizify_domain_tail + "' src=" + Api_response + "/" + encrypted_email + "/" + QuizId + "/" + quizify_domain_tail + " style='display: block; top:0px; left:0px; bottom:0px;height:700px;min-height:700px;right:0px; width:100%;border:none; margin:0; padding:0; overflow:hidden; z-index:999999;' ></iframe>");
+        customer_result.innerHTML = res_one;
+    }
+    else {
+        var res_two = str.replace("" + str + "", "<iframe id='quizify_result_frame' title='Quizify ‑ Product Quiz Builder' data-domain='" + quizify_domain_tail + "' src=" + Api_response + "/" + encrypted_email + "/" + QuizId + " style='display: block; top:0px; left:0px; bottom:0px;height:700px;min-height:700px;right:0px; width:100%;border:none; margin:0; padding:0; overflow:hidden; z-index:999999;' ></iframe>");
+        customer_result.innerHTML = res_two;
+    }
+
+
+    function get_height_of_response_page() {
+        window.addEventListener("message", myListener, false);
+        function myListener(event) {
+            if (event.origin !== origin_URL) {
+                return;
+            }
+        }
+        var get_heightofresponse_iframe = function (event) {
+            if (event.origin !== origin_URL) {
+                return;
+            }
+
+            var response_iframe = document.getElementById('quizify_result_frame');
+            if (response_iframe) {
+                if (event.data != undefined || event.data != 'undefined') {
+                    if (event.data.enc_email) {
+
+                        var email_enc = event.data.enc_email;
+                        customer_result.setAttribute("data-source", email_enc);
+                        localStorage.setItem("Quizify_result_widget" + QuizId, email_enc);
+                    }
+                }
+            }
+        };
+        if (window.addEventListener) {
+            window.addEventListener("message", get_heightofresponse_iframe, false);
+        } else if (window.attachEvent) {
+            window.attachEvent("onmessage", get_heightofresponse_iframe);
+        }
+    }
+
+    get_height_of_response_page(); //Iframe height resize call
+    window.onresize = function (event) {
+        get_height_of_response_page(); //Iframe height resize call
+    };
+}
+/*
+| Customer result widget over
+*/
+
+
+/*-----------------Start---Add to cart call-------------*/
+function addTocart(quiz_prv_id, variant_id, fromNumber, i, plain_quiz_id, plain_quiz_title, custom_input, type, selectedSellingPlanValue, isLastItem) {
+    return new Promise((resolve, reject) => {
+        var find_frame, get_shop_domain;
+        var check_frame = document.getElementsByClassName("quizifyIframe_" + quiz_prv_id);
+        var pop_up_irfame_id = document.getElementById('popup_iframe_id');
+
+        if (check_frame.length != 0) {
+            find_frame = check_frame;
+            get_shop_domain = find_frame[0].getAttribute("data-domain");
+        }
+        else if (pop_up_irfame_id != null && pop_up_irfame_id.length != 0) {
+            find_frame = document.getElementById('popup_iframe_id');
+            get_shop_domain = find_frame.getAttribute("data-domain");
+        }
+        else {
+            find_frame = document.getElementById('iframeid');
+            get_shop_domain = find_frame.getAttribute("data-domain");
+        }
+
+        var xhr = new XMLHttpRequest();
+        xhr.open("POST", '/cart/add.js', true);
+        xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+        xhr.onreadystatechange = function () {
+            if (this.readyState === 4) {
+                if (this.status === 200) {
+                    // (your existing logic here)
+                    var add_to_cart_info = {
+                        'analytic_type': 'add_to_cart',
+                        'shortcode_id': shortcode_id,
+                        'add_to_cart': i,
+                        'quiz_domain': (shortcode_id.length <= 3) ? get_shop_domain : null
+                    };
+                    if (isLastItem) {
+                        setTimeout(function () {
+                            var frameID = document.getElementsByClassName("quizifyIframe_" + quiz_prv_id);
+                            if (frameID.length != 0) {
+                                frameID[0].contentWindow.postMessage(add_to_cart_info, '*');
+                                var evt = new CustomEvent('quizifyAddToCart', { detail: xhr.response });
+                                window.dispatchEvent(evt);
+                                UpdateCartBag();
+                            }
+                            else if (document.getElementById('popup_iframe_id')) {
+                                document.getElementById('popup_iframe_id').contentWindow.postMessage(add_to_cart_info, '*');
+                                var evt = new CustomEvent('quizifyAddToCart', { detail: xhr.response });
+                                window.dispatchEvent(evt);
+                                UpdateCartBag();
+                            }
+                            else {
+                                let iframe_id = document.getElementById('iframeid');
+                                if (iframe_id.length != 0) {
+                                    iframe_id.contentWindow.postMessage(add_to_cart_info, '*');
+                                    var evt = new CustomEvent('quizifyAddToCart', { detail: xhr.response });
+                                    window.dispatchEvent(evt);
+                                    UpdateCartBag();
+                                }
+                            }
+                        }, 1000);
+                    }
+                    else {
+                        var continue_cart = {
+                            'continue_cart': true,
+                            'variant_id': variant_id,
+                        }
+                        setTimeout(function () {
+                            var frameID = document.getElementsByClassName("quizifyIframe_" + quiz_prv_id);
+                            if (frameID.length != 0) {
+                                frameID[0].contentWindow.postMessage(continue_cart, '*');
+                            }
+                            else if (document.getElementById('popup_iframe_id')) {
+                                document.getElementById('popup_iframe_id').contentWindow.postMessage(continue_cart, '*');
+                            }
+                        }, 1000);
+                    }
+                    resolve(xhr.response); // ✅ resolve when done
+                } else {
+                    reject(this.statusText || 'Add to cart failed');
+                }
+            }
+        }
+
+        // (keep your existing xhr.send(...) logic)
+        if (type == 'single') {
+            var xhrSendData = 'quantity=' + 1 + '&id=' + variant_id + '&properties[_Source]=Quizify' + '&properties[_Quizify ID]=' + plain_quiz_id + '&properties[_Quizify Title]=' + plain_quiz_title;
+            if (custom_input) {
+                xhrSendData += "&properties[" + custom_input.custom_input_label + "]=" + custom_input.custom_input_value;
+            }
+            if (selectedSellingPlanValue) {
+                xhrSendData += "&selling_plan=" + selectedSellingPlanValue;
+            }
+            xhr.send(xhrSendData);
+        }
+        else {
+            if (custom_input == undefined || custom_input == null || custom_input == '') {
+                xhr.send('quantity=' + 1 + '&id=' + variant_id + '&properties[_Source]=Quizify' + '&properties[_Quizify ID]=' + plain_quiz_id + '&properties[_Quizify Title]=' + plain_quiz_title);
+            }
+            else {
+                if (custom_input.length == 0) {
+                    xhr.send('quantity=' + 1 + '&id=' + variant_id + '&properties[_Source]=Quizify' + '&properties[_Quizify ID]=' + plain_quiz_id + '&properties[_Quizify Title]=' + plain_quiz_title);
+                }
+                else {
+                    const custom_inputs_ids = custom_input.filter(item => item.id === variant_id);
+                    if (custom_inputs_ids.length == 1) {
+                        xhr.send('quantity=' + 1 + '&id=' + variant_id + '&properties[_Source]=Quizify' + '&properties[_Quizify ID]=' + plain_quiz_id + '&properties[_Quizify Title]=' + plain_quiz_title + '&properties[' + custom_inputs_ids[0].custom_label + ']=' + custom_inputs_ids[0].custom_input);
+                    }
+                    else {
+                        xhr.send('quantity=' + 1 + '&id=' + variant_id + '&properties[_Source]=Quizify' + '&properties[_Quizify ID]=' + plain_quiz_id + '&properties[_Quizify Title]=' + plain_quiz_title);
+                    }
+                }
+            }
+        }
+    });
+}
+
+function HitToCheckout(data) {
+    if (data.ids) {
+        var string_ids = JSON.stringify(data.ids);
+        var final_string = string_ids.replace(/[{()}"]/g, '');
+        var plain_quiz_id = data.plain_quiz_id; //New-Analytics-Code-S
+        var plain_quiz_title = data.plain_quiz_title; //New-Analytics-Code-S
+        //   var url = 'https://'+ data.domain + '/cart/' + final_string +'?properties[_Source]=Quizify' +'&properties[_Quizify ID]='+plain_quiz_id +'&properties[_Quizify Title]='+plain_quiz_title;
+        var url = 'https://' + data.domain + '/cart/' + final_string;
+        window.open(url, '_blank');
+    }
+}
+/*-----------------End---Add to cart call-------------*/
+
+/*-----------------Start---Reomove product quantity call-------------*/
+function removeQTY(variant_id, fromNumber) {
+    GETdata('/cart.js', function (cart) {
+        var shopifyCart = cart;
+        shopifyCart.items.forEach(function (item) {
+            if (item.id == variant_id) {
+                var q = item.quantity - 1;
+                if (q < 0) {
+                    q = 0;
+                }
+                var ud = {};
+                ud[variant_id] = q;
+
+                POSTdata(
+                    '/cart/update.js',
+                    { updates: ud },
+                    function (response) {
+                        UpdateCartBag();
+                    });
+            }
+        });
+    });
+}
+/*-----------------End---Reomove product quantity call-------------*/
+
+function accessHTML(items) {
+    if (items && items.length > 0) {
+        GETdata('/cart.js', function (cart) {
+            for (var i = 0; i < items.length; i++) {
+                var el = items[i];
+                el.innerHTML = cart.item_count;
+            }
+        });
+    }
+}
+function GETdata(theUrl, callback) {
+    var xmlHttp = new XMLHttpRequest();
+    xmlHttp.onreadystatechange = function () {
+        if (xmlHttp.readyState === 4 && xmlHttp.status === 200) {
+            callback(JSON.parse(xmlHttp.responseText));
+        }
+    };
+    xmlHttp.open('GET', theUrl, true); // true for asynchronous
+    xmlHttp.send(null);
+}
+function POSTdata(theUrl, theJson, callback) {
+    var xmlHttp = new XMLHttpRequest();
+    xmlHttp.onreadystatechange = function () {
+        if (xmlHttp.readyState === 4 && xmlHttp.status === 200) {
+            callback(JSON.parse(xmlHttp.responseText));
+        }
+    };
+    xmlHttp.open('POST', theUrl, true); // true for asynchronous
+    xmlHttp.setRequestHeader('Content-Type', 'application/json;charset=UTF-8');
+    xmlHttp.send(JSON.stringify(theJson));
+}
+function UpdateCartBag() {
+    GETdata('/cart.js', function (cart) {
+        const cartCount = cart.item_count;  // Get item count
+        const cartIconBubble = document.querySelector('#cart-icon-bubble'); // Select the main cart icon element
+        let cartCountBubble = cartIconBubble.querySelector('.cart-count-bubble'); // Check if count bubble already exists
+
+        if (cartCount > 0) {
+            if (!cartCountBubble) {
+                // Create the cart-count-bubble if it doesn't exist
+                cartCountBubble = document.createElement('div');
+                cartCountBubble.className = 'cart-count-bubble';
+                cartCountBubble.innerHTML = `
+                        <span aria-hidden="true">${cartCount}</span>
+                        <span class="visually-hidden">${cartCount} item${cartCount > 1 ? 's' : ''}</span>
+                    `;
+                // Append the bubble to the cart icon
+                cartIconBubble.appendChild(cartCountBubble);
+            } else {
+                // If the bubble exists, just update the count
+                cartCountBubble.querySelector('span[aria-hidden="true"]').textContent = cartCount;
+                cartCountBubble.querySelector('.visually-hidden').textContent = `${cartCount} item${cartCount > 1 ? 's' : ''}`;
+            }
+        } else {
+            // If the cart is empty and the count bubble exists, remove it
+            if (cartCountBubble) {
+                cartCountBubble.remove();
+            }
+        }
+    });
+}
+
+function getAppCookie(name) {
+    const value = "; " + document.cookie;
+    const parts = value.split("; " + name + "=");
+    if (parts.length === 2) return decodeURIComponent(parts.pop().split(";").shift());
+    return null;
+}
+
+// Helper to set cookie
+function setAppCookie(name, value, days) {
+    const expires = new Date(Date.now() + days * 24 * 60 * 60 * 1000).toUTCString();
+    document.cookie = name + "=" + encodeURIComponent(value) + "; expires=" + expires + "; path=/";
+}
+
+// Helper to merge arrays by unique product id
+function mergeUniqueProducts(existing, incoming) {
+    const ids = new Set(
+        existing.filter(p => p && p.id).map(p => p.id)
+    );
+
+    incoming.forEach(p => {
+        if (p && p.id && !ids.has(p.id)) {
+            existing.push(p);
+            ids.add(p.id);
+        }
+    });
+
+    return existing;
+}
+
+/*-------------------------------------------Cart Drawer-------------------------------------------*/
+const quizParser = new DOMParser();
+const quizParseHTML = (html) => quizParser.parseFromString(html, 'text/html');
+const quizDelay = (ms) => new Promise(r => setTimeout(r, ms));
+const quizEmptyClasses = ['is-empty', 'cart-drawer--empty'];
+
+const quizGetCartDrawer = () => document.querySelector('.cart-drawer__dialog');
+const quizRemoveEmptyClasses = (el) => el?.classList.remove(...quizEmptyClasses);
+
+// SINGLE UNIFIED EVENT LISTENER - Works with ALL Shopify themes
+window.addEventListener("quizifyAddToCart", async function () {
+    //   console.log('=== Cart update started ===');
+    await quizDelay(800);
+    try {
+        const quizCart = await fetch('/cart.js').then(r => r.json());
+        // console.log('Current cart:', quizCart.item_count, 'items');
+        const quizCartDrawer = quizGetCartDrawer();
+        quizCartDrawer?.querySelector('dialog[open]')?.close();
+        const quizDetails = quizCartDrawer?.querySelector('details[open]');
+        if (quizDetails) quizDetails.open = false;
+        await quizDelay(200);
+        // Fetch fresh sections for NEW themes
+        const quizSectionsUrl = `${window.location.pathname}?sections=cart-drawer,header&_=${Date.now()}`;
+        const quizSections = await fetch(quizSectionsUrl).then(r => r.json());
+
+        // Update cart-drawer (NEW THEME - Dawn 2.0+, Refresh, etc)
+        if (quizSections['cart-drawer']) {
+            const quizNewDrawer = quizParseHTML(quizSections['cart-drawer']).querySelector('.cart-drawer__dialog');
+            const quizCurrentDrawer = quizGetCartDrawer();
+
+            if (quizNewDrawer && quizCurrentDrawer) {
+                quizCurrentDrawer.outerHTML = quizNewDrawer.outerHTML;
+                // console.log('✓ New theme: Cart drawer replaced');
+                if (quizCart.item_count > 0) quizRemoveEmptyClasses(quizGetCartDrawer());
+            }
+        }
+
+        // Update header
+        if (quizSections['header']) {
+            const quizSectionDiv = document.getElementById('shopify-section-header');
+            const quizNewSection = quizParseHTML(quizSections['header']).querySelector('.shopify-section');
+            if (quizSectionDiv && quizNewSection) {
+                quizSectionDiv.innerHTML = quizNewSection.innerHTML;
+                // console.log('✓ Header updated');
+            }
+        }
+
+        // Update OLD THEME cart-drawer (Dawn 1.0, Sense, Craft, etc)
+        await quizUpdateOldThemeCartDrawer();
+        await quizUpdateCartItems();
+        await quizDelay(100);
+        quizOpenCartDrawer();
+    } catch (error) {
+        // console.error('Error updating cart:', error);
+        quizOpenCartDrawer();
+    }
+});
+
+// Update OLD THEME cart-drawer element (Dawn 1.0, Sense, Craft, Studio, etc)
+async function quizUpdateOldThemeCartDrawer() {
+    const quizOldCartDrawer = document.querySelector('cart-drawer');
+    if (!quizOldCartDrawer) {
+        // console.log('Old theme cart-drawer not found');
+        return;
+    }
+
+    //   console.log('Updating OLD theme cart-drawer...');
+    try {
+        const quizHtml = await fetch(`${window.location.pathname}?section_id=cart-drawer&_=${Date.now()}`).then(res => res.text());
+        const quizDoc = quizParseHTML(quizHtml);
+        const quizNewDrawer = quizDoc.querySelector('cart-drawer');
+
+        if (quizNewDrawer && quizOldCartDrawer) {
+            quizOldCartDrawer.innerHTML = quizNewDrawer.innerHTML;
+            quizOldCartDrawer.classList.remove('is-empty');
+            //   console.log('✓ Old theme: cart-drawer updated');
+        }
+    } catch (err) {
+        // console.log('Old theme cart update error:', err);
+    }
+}
+
+// Update cart items component (for NEW themes with cart-items-component)
+async function quizUpdateCartItems() {
+    const quizCartItemsComponent = document.querySelector('cart-items-component');
+    const quizCartBubble = document.querySelector('.cart-bubble, .cart-count-bubble');
+    //   console.log('Cart items component found:', !!quizCartItemsComponent);
+    if (!quizCartItemsComponent && !quizCartBubble) return;
+
+    try {
+        const quizHtml = await fetch(location.href + '?_=' + Date.now()).then(res => res.text());
+        const quizDoc = quizParseHTML(quizHtml);
+
+        if (quizCartItemsComponent) {
+            const quizFreshCartItems = quizDoc.querySelector('cart-items-component');
+            if (quizFreshCartItems) {
+                quizCartItemsComponent.innerHTML = quizFreshCartItems.innerHTML;
+                // console.log('✓ Cart items component reloaded');
+                quizRemoveEmptyClasses(quizGetCartDrawer());
+            }
+        }
+
+        if (quizCartBubble) {
+            const quizFreshBubble = quizDoc.querySelector('.cart-bubble, .cart-count-bubble');
+            if (quizFreshBubble) {
+                quizCartBubble.innerHTML = quizFreshBubble.innerHTML;
+                quizCartBubble.classList.remove('visually-hidden');
+                // console.log('✓ Cart bubble updated');
+            }
+        }
+    } catch (err) {
+        // console.log('Cart items update error:', err);
+    }
+}
+
+// Universal cart drawer opener - Works with ALL Shopify themes
+function quizOpenCartDrawer() {
+    //   console.log('Opening cart drawer...');
+    // Method 1: OLD THEME - Dawn 1.0, Sense, Craft (cart-drawer element)
+    const quizOldCartDrawer = document.querySelector('cart-drawer');
+    if (quizOldCartDrawer) {
+        quizOldCartDrawer.classList.add('active');
+        quizOldCartDrawer.classList.remove('is-empty');
+
+        const quizDetails = quizOldCartDrawer.querySelector('details');
+        if (quizDetails) {
+            quizDetails.open = true;
+        }
+
+        document.body.classList.add('overflow-hidden');
+        // console.log('✓ Opened OLD theme cart-drawer');
+        return;
+    }
+
+    // Method 2: NEW THEME - Click cart button
+    const quizCartButtons = [
+        document.querySelector('button[aria-describedby*="cart"]'),
+        document.querySelector('button[aria-label*="Cart"]'),
+        document.querySelector('button[aria-label*="Carrito"]'),
+        document.querySelector('[data-cart-toggle]'),
+        document.querySelector('button[aria-controls*="cart"]'),
+        document.querySelector('.cart-toggle'),
+        document.querySelector('#cart-icon-bubble'),
+        document.querySelector('.cart-icon-bubble'),
+        document.querySelector('a[href*="/cart"]')
+    ];
+
+    const quizCartBtn = quizCartButtons.find(btn => btn !== null);
+
+    if (quizCartBtn) {
+        // console.log('✓ Clicking cart button');
+        quizCartBtn.click();
+        return;
+    }
+
+    console.log('Cart button not found, trying direct methods...');
+
+    // Method 3: NEW THEME - Direct drawer manipulation
+    const quizNewDrawer = quizGetCartDrawer();
+    if (quizNewDrawer) {
+        quizRemoveEmptyClasses(quizNewDrawer);
+
+        const quizDetails = quizNewDrawer.querySelector('details') || quizNewDrawer.closest('details');
+        if (quizDetails) {
+            quizDetails.open = true;
+            //   console.log('✓ Opened via details.open');
+            return;
+        }
+
+        quizNewDrawer.classList.add('is-open', 'active');
+        // console.log('✓ Opened via class');
+        return;
+    }
+
+    // Method 4: Generic drawer fallback
+    const quizGenericDrawers = [
+        document.querySelector('#cart-drawer'),
+        document.querySelector('.cart-drawer'),
+        document.querySelector('[data-cart-drawer]')
+    ];
+
+    const quizDrawer = quizGenericDrawers.find(d => d !== null);
+
+    if (quizDrawer) {
+        quizDrawer.classList.add('active', 'is-open');
+        quizDrawer.setAttribute('aria-hidden', 'false');
+        document.body.classList.add('overflow-hidden');
+        // console.log('✓ Opened generic drawer');
+        return;
+    }
+
+    //   console.log('⚠ Could not find cart drawer to open');
+}
+/*-------------------------------------------Cart Drawer-------------------------------------------*/
